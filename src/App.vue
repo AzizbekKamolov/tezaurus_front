@@ -1,17 +1,11 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import NavbarView from "./views/NavbarView.vue";
 </script>
 
 <template>
-
-<h1 class="text-3xl font-bold underline">
-     Hello world!
-  </h1>
-<RouterLink :to="{name: 'login'}">Login</RouterLink>
-<br>
-<RouterLink :to="{name:'register'}">Register</RouterLink>
+  <NavbarView />
 <RouterView/>
- </template>
-<style scoped>
 
+</template>
+<style scoped>
 </style>

@@ -1,7 +1,7 @@
 <template>
-    <h1 class="text-3xl font-bold underline">
-        Home page
-  </h1>
+    <div>
+        Home papka
+    </div>
 </template>
 <script>
 export default {
