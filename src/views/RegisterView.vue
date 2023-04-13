@@ -28,7 +28,7 @@
         :labelName="'Confirm Password'"
         :errorrMessage="``"
       />
-      <AuthButton :disabled="isLoading" @click="submitHandler"
+      <AuthButton :disabled="isLoadingButton" @click="submitHandler"
         >Register</AuthButton
       >
       <RouterLink :to="{ name: 'login' }" class="text-blue-500"
@@ -44,13 +44,15 @@ import AuthInput from "../ui_components/AuthInput.vue";
 export default {
   name: "RegisterView",
   components: { AuthButton, AuthInput },
-  computed: {
-    isLoading() {
-      return this.$store.state.auth.isLoading;
-    },
+  methods:{
     submitHandler(e) {
-      e.preventDefault;
-      this.$store.commit("setLoading");
+      e.preventDefault();
+      this.$store.dispatch("register");
+    },
+  },
+  computed: {
+    isLoadingButton() {
+      return this.$store.state.auth.isLoading;
     },
   },
 };
