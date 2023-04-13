@@ -1,6 +1,6 @@
 <template>
     <div>
-        Home papka
+        Home page
     </div>
 </template>
 <script>
