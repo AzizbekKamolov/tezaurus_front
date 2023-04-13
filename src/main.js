@@ -2,9 +2,8 @@ import { createApp } from 'vue'
 import './assets/style.css'
 import App from './App.vue'
 import VueRouter from './router'
-// import ui_components from './ui_components'
+import store from './store'
 
 const app = createApp(App)
-// ui_components.map(component => app.component(component.name, component))
-
-createApp(App).use(VueRouter).mount('#app')
+app.use(store);
+app.use(VueRouter).mount('#app')
