@@ -1,5 +1,5 @@
-import AuthInput from './AuthInput.vue'
-import AuthButton from './AuthButton.vue'
+// import AuthInput from './AuthInput.vue'
+// import AuthButton from './AuthButton.vue'
 
 
-export default [AuthButton, AuthInput]
+// export default [AuthButton, AuthInput]
