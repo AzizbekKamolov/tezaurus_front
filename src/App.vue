@@ -9,8 +9,9 @@ export default {
 
 <template>
   <NavbarView />
-  
+
   <RouterView />
 </template>
 <style scoped>
 </style>
+  
