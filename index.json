@@ -1,0 +1,802 @@
+"data": [
+    {
+        "name_uz": "ABONEMENT POCHTA JAVONI",
+        "information_uz": "– pochta aloqasi obyektlarida o‘rnatiladigan qulflanadigan qutichalardan iborat maxsus javon bo‘lib, bu qutichalar yozma xat-xabarlarni, davriy bosma nashrlarni, pochta, kuryerlik jo‘natmalari va pul mablag‘larining pochta o‘tkazmalari kelganligi to‘g‘risidagi xabarnomalarni olish uchun adresatlar tomonidan muayyan muddatga ijaraga olinadi.",
+    },
+    {
+        "name_uz": "ABSENTEIZM",
+        "information_uz": "(lot. absens/ absentis/ –qatnashmagan; ing. absenteeism) – jahon konstitutsiyaviy amaliyotida uchraydigan atama bo‘lib, saylovda ovoz bermaslik va referendumda ixtiyoriy katnashmaslikni bildiradi. Bunda kim deputat yoki davlat boshlig‘i bo‘lishi, masala qanday hal qilinishi saylovchilarni qiziqtirmaydi.",
+    },
+    {
+        "name_uz": "ABSOLYUT MONARXIYA",
+        "information_uz": "(mutlaq monarxiya) – davlat tuzumi, hech qanday cheklov bilan cheklanmagan monarx hokimyati.",
+    },
+    {
+        "name_uz": "ABSOLYUTIZM",
+        "information_uz": "(lot. absolutos – shartsiz, mutlaq) – absolyut monarxiya hukm surgan Yevropa tarixining bir davri.",
+    },
+    {
+        "name_uz": "AD REFERENDUM",
+        "information_uz": "(lot. ad referendum) – shartnomani shartli ravishda imzolash yoki hujjat matniga davlatning vakolatli organi yoki shaxsi tomonidan tasdiqlanishigacha rozilik bildirish.",
+    },
+    {
+        "name_uz": "ADOLAT HUQUQI",
+        "information_uz": "– anglo-sakson huquq oilasi amalda bo‘lgan mamlakatlar huquqining manbasi bo‘lib, u Angliyada XV asrdan boshlab, Lord kansler tomonidan mustaqil sudya sifatida Qirol va uning kengashi nomidan yakka tartibda ishlarni ko‘rishi natijasida va shu asosda tizimli ravishda “adolat” doktrinasi sifatida qabul qilingan qarorlar hisoblanadi.",
+    },
+    {
+        "name_uz": "ADOLATSIZ SUD QARORI",
+        "information_uz": "– ishning aniqlangan holatlariga zid ravishda yoki moddiy yoxud protsessual qonunni jiddiy buzgan holda qabul qilingan sud hujjati (hukm, hal qiluv qarori, ajrim yoki qaror).",
+    },
+    {
+        "name_uz": "ADRESAT",
+        "information_uz": "– pochta, kuryerlik jo‘natmasi, pul mablag‘larining pochta o‘tkazmasi, telegraf xabari yoki boshqa xabar yo‘llangan yuridik yoki jismoniy shaxs.",
+    },
+    {
+        "name_uz": "ADVOKAT",
+        "information_uz": "– oliy yuridik maʼlumotga ega bo‘lgan va advokatlik faoliyati bilan shug‘ullanish huquqini beruvchi litsenziyani belgilangan tartibda olgan O‘zbekiston Respublikasining fuqarosi O‘zbekiston Respublikasida advokat bo‘lishi mumkin.",
+    },
+    {
+        "name_uz": "ADVOKATLAR HAYʼATI",
+        "information_uz": "– aʼzolikka asoslangan va advokatlik faoliyatini amalga oshirish uchun advokatlar tomonidan taʼsis etilgan, notijorat tashkiloti bo‘lgan advokatlik tuzilmasidir. Advokatlar hayʼatining taʼsis hujjatlari uning muassislari tomonidan tasdiqlanadigan ustav hamda ular tomonidan tuziladigan taʼsis shartnomasidir.",
+    },
+    {
+        "name_uz": "ADVOKATLAR PALATASI",
+        "information_uz": "– O‘zbekiston Respublikasi barcha advokatlarining majburiy aʼzoligiga asoslangan notijorat tashkilotdir. Advokatlar palatasi o‘zining Qoraqalpog‘iston Respublikasi, viloyatlar va Toshkent shahrida tuziladigan hududiy boshqarmalari bilan birgalikda advokaturaning yagona o‘zini o‘zi boshqarish tizimini tashkil etadi. Advokatlar palatasi advokatlarning qonun hujjatlariga muvofiq amalga oshiriladigan faoliyatiga aralashmaslik prinsipi asosida faoliyat ko‘rsatadi. Advokatlar palatasining vazifalari va vakolatlariga o‘xshash vazifalar va vakolatlarga ega bo‘lgan boshqa tashkilotlarni tashkil etishga yo‘l qo‘yilmaydi.",
+    },
+    {
+        "name_uz": "ADVOKATLIK BYUROSI",
+        "information_uz": "– advokatlik faoliyatini yakka tartibda amalga oshirish uchun advokat tomonidan taʼsis etilgan, notijorat tashkiloti bo‘lgan advokatlik tuzilmasidir. Advokatlik byurosining taʼsis hujjati muassis tomonidan tasdiqlanadigan ustavidir.",
+    },
+    {
+        "name_uz": "ADVOKATLIK DOSYESI",
+        "information_uz": "– ishonch bildiruvchining qonuniy manfaatlari va huquqlarini himoya qilish chog‘ida advokat tomonidan yagona papkada to‘plangan ish materiallari, advokatlik ish yurituv hujjatlari. Masalan, daʼvo arizasi va unga ilova qilinishi lozim bo‘lgan tasdiqlovchi hujjatlar.",
+    },
+    {
+        "name_uz": "ADVOKATLIK FAOLIYATI",
+        "information_uz": "– qonunda belgilangan tartibda advokat maqomini olgan shaxslar tomonidan ishonch bildiruvchilar – jismoniy va yuridik shaxslarga ularning huquqlari, erkinliklari va manfaatlarini himoya qilish, shuningdek, odil sudlovdan foydalanish imkoniyatini taʼminlash maqsadida professional asosda ko‘rsatiladigan malakali yuridik yordam.",
+    },
+    {
+        "name_uz": "ADVOKATLIK FAOLIYATINING KAFOLATLARI",
+        "information_uz": "– advokatning kasbga oid huquqlari, shaʼni va qadr-qimmati qonun bilan qo‘riqlanadi. Advokatlarning kasbiy faoliyatiga u yoki bu tarzda aralashish, ular o‘z kasbiy vazifalarini bajarayotganda olgan muayyan maʼlumotlarni oshkor etishni talab qilish, shuningdek, advokatlar birlashmalarining mansabdor shaxslaridan va texnik xodimlaridan xuddi shunday maʼlumotlarni talab qilish taʼqiqlanadi. Advokat o‘z kasbiy vazifalarini bajarayotganida unga biror-bir shaklda taʼsir o‘tkazishga yo‘l qo‘yilmaydi.",
+    },
+    {
+        "name_uz": "ADVOKATLIK FIRMASI",
+        "information_uz": "– sheriklikka asoslangan va advokatlik faoliyatini amalga oshirish uchun advokatlar tomonidan taʼsis etilgan, notijorat tashkiloti bo‘lgan advokatlik tuzilmasidir. Advokatlik firmasini taʼsis etgan advokatlar oddiy yozma shaklda o‘zaro sheriklik shartnomasini tuzadi.",
+    },
+    {
+        "name_uz": "ADVOKATLIK ORDERI",
+        "information_uz": "– O‘zbekiston Respublikasi Adliya vazirligi tomonidan tasdiqlangan maxsus shakldagi advokatning muayyan ish bo‘yicha ishonch bildiruvchi manfaatlarini surishtiruv dastlabki tergov, sudlar, shu jumladan, xo‘jalik sudi, davlat boshqaruvi, maʼmuriy organlarda himoya qilishga vakolatli ekanligini tasdiqlovchi hujjat. Advokatning ishda ishtirok etishiga uning tomonidan advokatlik guvohnomasini ko‘rsatganidan va muayyan ishni yuritishga vakolatli ekanligini tasdiqlovchi orderni taqdim etganidan keyin yo‘l qo‘yiladi.",
+    },
+    {
+        "name_uz": "ADVOKATLIK SIRI",
+        "information_uz": "– advokat advokatlik sirini saqlashga majbur. Advokatdan va uning yordamchisidan advokatlik predmeti hisoblangan holatlar to‘g‘risida biror-bir tushuntirish yoki ko‘rsatuvlar berishni talab qilish, shuningdek ular haqida tezkor-qidiruv faoliyatida, jinoyat ishlari, maʼmuriy huquqbuzarliklar to‘g‘risidagi ishlar va boshqa ishlarni yuritishda foydalanish uchun biror-bir material taqdim etishni talab qilish man etiladi.",
+    },
+    {
+        "name_uz": "ADVOKATLIK SIRI",
+        "information_uz": "– advokat advokatlik sirini saqlashga majbur. Advokatdan va uning yordamchisidan advokatlik predmeti hisoblangan holatlar to‘g‘risida biror-bir tushuntirish yoki ko‘rsatuvlar berishni talab qilish, shuningdek ular haqida tezkor-qidiruv faoliyatida, jinoyat ishlari, maʼmuriy huquqbuzarliklar to‘g‘risidagi ishlar va boshqa ishlarni yuritishda foydalanish uchun biror-bir material taqdim etishni talab qilish man etiladi.",
+    },
+    {
+        "name_uz": "ADVOKATLIK SO‘ROVI",
+        "information_uz": "– advokat kasbiy faoliyatini amalga oshirish jarayonida yuridik yordam ko‘rsatilishi munosabati bilan davlat organlaridan, korxona, muassasa, tashkilotlardan hamda jamoat birlashmalaridan zarur bo‘lgan maʼlumotnomalar, tavsifnomalar va boshqa hujjatlarni so‘rashi va olishi.",
+    },
+    {
+        "name_uz": "ADVOKATNING BITIMI",
+        "information_uz": "– bu mijoz fuqaro, tashkilot bilan shartnoma bo‘yicha vakil sifatidagi advokat o‘rtasida muayyan sudda muayyan moddiy huquqlar va qonun bilan qo‘riqlanadigan manfaatlarni himoya qilish bo‘yicha muayyan yuridik yordam ko‘rsatish uchun yozma ravishda tuziladigan topshiriq shartnomasidir.",
+    },
+    {
+        "name_uz": "ADVOKATNING DAXLSIZLIGI",
+        "information_uz": "– advokatning shaxsi daxlsiz. Advokatning daxlsizligi uning uy-joyiga, xizmat xonasiga, foydalanishidagi transporti va aloqa vositalariga, uning xat-xabarlariga, unga tegishli ashyolar va hujjatlarga ham taalluqlidir. Advokatga nisbatan jinoyat ishi O‘zbekiston Respublikasi Bosh prokurori, Qoraqalpog‘iston Respublikasi prokurori, viloyat, Toshkent shahar prokurori va ularga tenglashtirilgan prokurorlar tomonidan qo‘zg‘atilishi mumkin.",
+    },
+    {
+        "name_uz": "ADVOKATNING GONORARI",
+        "information_uz": "– ko‘rsatilgan yuridik yordam uchun jismoniy va yuridik shaxslardan advokatlar hayʼati, firmalar va advokatlik byurolariga kelib tushgan mablag‘lar hisobidan advokatlarning xizmati uchun to‘lanadigan pul ko‘rinishidagi moddiy mablag‘ turi. Advokatga haq to‘lash ishonch bildiruvchi bilan advokat o‘rtasida ixtiyoriy ravishda tuziladigan bitim (shartnoma) asosida amalga oshiriladi.",
+    },
+    {
+        "name_uz": "ADVOKATNING INTIZOMIY JAVOBGARLIGI",
+        "information_uz": "– advokat tomonidan advokatura to‘g‘risidagi qonun hujjatlari talablari, advokatning kasb etikasi qoidalari, advokatlik siri va advokat qasamyodi buzilganligi unga nisbatan intizomiy choralar qo‘llanilishiga sabab bo‘ladi. Intizomiy ish yuritish Advokatlar palatasining tegishli hududiy boshqarmasi yoki advokatga guvohnoma bergan adliya organi tomonidan qo‘zg‘atiladi.",
+    },
+    {
+        "name_uz": "ADVOKATNING STAJYORI",
+        "information_uz": "– kamida uch yillik ish stajiga ega bo‘lgan advokat advokat stajyoriga ega bo‘lishga haqli. Oliy yuridik maʼlumotga ega bo‘lgan shaxs advokatning stajyori bo‘lishi mumkin.\nStajirovka advokatlik tuzilmasida o‘taladi. Advokatning stajyori o‘z faoliyatini advokat rahbarligida, uning alohida topshiriqlarini bajargan holda amalga oshiradi. Stajyor advokatlik faoliyati bilan mustaqil ravishda shug‘ullanishga haqli emas.",
+    },
+    {
+        "name_uz": "ADVOKATNING VAKOLATLARI",
+        "information_uz": "– advokat O‘zbekiston Respublikasining butun hududida, shuningdek, agar olingan topshiriqni bajarish zaruriyati taqozo etsa va tegishli davlatlarning qonun hujjatlariga zid bo‘lmasa, respublika tashqarisida ham advokatlik faoliyati bilan shug‘ullanish huquqiga ega. Muayyan ishni olib borishga advokatning vakolatli ekanligi advokatlik orderi bilan tasdiqlanadi.",
+    },
+    {
+        "name_uz": "ADVOKATNING VAZIFALARI",
+        "information_uz": "– advokat o‘z professional faoliyatida amaldagi qonun hujjatlari talablariga, advokatning kasb etikasi qoidalariga, advokatlik siri va advokat qasamyodiga rioya etishi, o‘ziga yuridik shaxslarning huquqlari va qonuniy manfaatlarini himoya qilishning qonunda nazarda tutilgan vositalari hamda usullaridan foydalanishi shart.",
+    },
+    {
+        "name_uz": "ADVOKATNING YORDAMCHISI",
+        "information_uz": "– O‘zbekiston Respublikasining yuridik maʼlumotiga ega bo‘lgan fuqarosi Advokatning yordamchisi bo‘lishi mumkin. Belgilangan tartibda muomalaga layoqatsiz yoki muomala layoqati cheklangan deb topilgan, shuningdek, sudlanganligi bekor qilinmagan yoki olib tashlanmagan shaxs. Advokat yordamchisi advokatning huquqlariga ega emas va surishtiruv, dastlabki tergov organlariga ishni olib borish uchun hamda sud va boshqa davlat organlarida ish olib borish uchun qo‘yilmaydi. Advokat yordamchisi advokatning ko‘rsatmasiga binoan, uning ish yurituvida bo‘lgan ishlar yuzasidan advokatning protsessual vakolatlariga tegishli bo‘lmagan topshirig‘ini bajaradi.",
+    },
+    {
+        "name_uz": "ADVOKATURANING MABLAG‘LARI",
+        "information_uz": "– advokatura notijorat tashkilotdir va faoliyatni o‘z mablag‘lari hisobidan amalga oshiradi. Advokaturaning lavozim shtatlari, mansab okladlari va maʼmuriy-xo‘jalik xarajatlarining smetalari moliya organlarida ro‘yxatdan o‘tkazilmasligi lozim. Advokaturaning ish haqi fondi banklar tomonidan nazorat qilinmaydi.",
+    },
+    {
+        "name_uz": "AFFEKT",
+        "information_uz": "– bu qisqa muddatli, to‘satdan paydo bo‘luvchi, jabrlanuvchining huquqqa xilof, axloqsiz xatti-harakatlari natijasida kelib chiquvchi kuchli ruhiy hayajonlanishdir",
+    },
+    {
+        "name_uz": "AFILLANGAN SHAXSLAR",
+        "information_uz": "– yuridik ahamiyatga ega harakatlar vositasida yoxud biror-bir fuqarolik-huquqiy munosabatlar asosida bir-birining faoliyatiga taʼsir ko‘rsatishga qodir bo‘lgan hamda mazkur Nizomga muvofiq shunday deb topilgan yuridik va jismoniy shaxslar tushuniladi.",
+    },
+    {
+        "name_uz": "AFV ETISH",
+        "information_uz": "– O‘zbekiston Respublikasi Prezidentining aniq-individual hujjati bo‘lib, uning asosida jinoyat sodir etgan muayyan shaxs yoki shaxslarning muayyan guruhi sud tomonidan tayinlangan jazodan ozod qilinishi yoki jazo yengillashtirilishi yoxud boshqa turiga almashtirilishi mumkin .",
+    },
+    {
+        "name_uz": "AFV ETISH",
+        "information_uz": "– shaxsning sodir etgan jinoyati uchun tayinlangan yoki tayinlanadigan jazoni o‘tashdan ozod etish, yaʼni kechirish. Bunda har bir kishining shaxsi, avvalgi xizmatlari, o‘zini tutishi, tuzalish yo‘liga kirganligi, jinoyatning xarakteri (og‘ir-yengilligi), yetkazilgan zarar hamda kechirim so‘rash haqidagi iltimoslari eʼtiborga olinadi. Afv orqali shaxs jazoning hammasini o‘tashdan yoki o‘talmagan qismini o‘tashdan ozod kilinishi mumkin. O‘zbekistonda afv eʼlon qilish huquqi O‘zbekiston Respublikasi Prezidentiga tegishlidir. (O‘zbekiston Respublikasi Konstitutsiyasining 93-modda, 23-bandi).",
+    },
+    {
+        "name_uz": "AGGRAVATSIYA",
+        "information_uz": "– kasallik belgilarini bo‘rttirib ko‘rsatish.",
+    },
+    {
+        "name_uz": "AGRAR HUQUQ",
+        "information_uz": "– qishloq xo‘jalik faoliyatini amalga oshirish jarayonida yuzaga keladigan ijtimoiy munosabatlarni tartibga soluvchi huquqiy normalar majmui.",
+    },
+    {
+        "name_uz": "AGREMAN",
+        "information_uz": "(fr. agreer – rozilik) –akkreditlovchi davlat tomonidan muayyan shaxsni o‘z diplomatik vakolatxonasi rahbari sifatida tayinlanishiga qabul qiluvchi davlatning bergan yozma roziligi. Akkreditatsiya qilgan davlatning diplomatik vakolatxonasi rahbari sifatida muayyan shaxsning tayinlanishiga qabul qiluvchi davlatning roziligi. Agreman faqat diplomatik vakolatxona rahbari (elchi, vakil, ishonchli vakil) lavozimigagina so‘raladi. Boshqa diplomatik xodimlarga, jumladan, muvaqqat ishlar vakiliga ham agreman so‘rash talab qilinmaydi, xojati ham yo‘q. Agreman, qoida bo‘yicha, Tashqi ishlar idorasi yoki akkreditatsiya qilayapgan davlatning diplomatik vakolatxonasi orqali so‘raladi. Agreman olingunga qadar diplomatik vakolatxona rahbari lavozimiga tayinlash mumkin emas. Shu hujjatni olgunga qadar mo‘ljallangan tayinlash haqidagi xabarni ommaviy axborot vositalarida eʼlon qilinmaydi. Agreman so‘rash faktini ham oshkor qilish mumkin emas. Ko‘p holatlarda agremanni berish rad etilgani xabar qilinmaydi. Maʼlum muddat (4-8 hafta) ichida javob bo‘lmasa, nomzod maʼqul bo‘lmaganiga ishora hisoblanadi. Diplomatik munosabatlar haqidagi 1961 y. Vena konvensiyasiga binoan, agremanni rad etish sababini bildirish majburiy emas.",
+    },
+    {
+        "name_uz": "AHOLI PUNKTINING BOSH REJASI",
+        "information_uz": "– yashash va faoliyat muhitini shakllantirishning kompleks sharoitlarini, aholi punktlari hududiy rivojlanishining asosiy yo‘nalishlarini belgilaydigan shaharsozlik hujjati.",
+    },
+    {
+        "name_uz": "AHOLI PUNKTLARIARO HUDUDLAR",
+        "information_uz": "– aholi punktlari chegarasidan tashqaridagi ikki va undan ortiq aholi punkti o‘rtasidagi hududlar.",
+    },
+    {
+        "name_uz": "AHOLINI JOYLASHTIRISH TIZIMI",
+        "information_uz": "– mavjud aholi punktlarini rivojlantirish hamda yangi aholi punktlarini barpo etish yo‘li bilan aholini tegishli hududga tartibga solib boriladigan tarzda joylashtirishning shaharsozlik hujjatlari bilan belgilanadigan asosiy yo‘nalishlari.",
+    },
+    {
+        "name_uz": "AJRATILGAN MINTAQA",
+        "information_uz": "– 1) avtomobil yo‘li, uning tegishli konstruktiv elementlari va muhandislik inshootlari, shuningdek, avtomobil yo‘lidan foydalanish uchun zarur bo‘lgan binolar, inshootlarni joylashtirish, ihota va manzarali daraxtzorlar barpo etish uchun doimiy foydalanishga qonun hujjatlarida belgilangan tartibda beriladigan yer uchastkasi; 2) temir yo‘l transportining tuproq ko‘tarmasi, sunʼiy inshootlar, yo‘l binolari, temir yo‘l aloqasi va elektr taʼminoti qurilmalari, temir yo‘l bekatlari, boshqa binolar, inshootlar va yo‘l qurilmalari, shuningdek, ixota daraxtzorlari joylashgan yerlar.",
+    },
+    {
+        "name_uz": "AJRIM",
+        "information_uz": "– sud tomonidan chiqariladigan protsessual hujjatlardan biri, sud qarorlarining bir turi sifatida qaraladi. Ajrimlar birinchi instansiya va apellyatsiya, kassatsiya, nazorat sudlov instansiyalari tomonidan hamda yangi ochilgan holatlar bo‘yicha sud majlisida va sud majlisidan tashqari fuqarolik sud ishlarini yuritishning barcha bosqichlarida qonunda belgilangan asoslarga muvofiq chiqariladigan akt (protsessual hujjat) sanaladi.",
+    },
+    {
+        "name_uz": "AKKREDITIV BO‘YICHA HISOB -KITOBLAR",
+        "information_uz": "– akkreditiv bo‘yicha hisob-kitob qilinganida mijozning (to‘lovchining) topshirig‘i bilan va uning ko‘rsatmalariga muvofiq akkreditiv ochgan bank (bank-emitent) mablag‘larni oluvchi yoki u ko‘rsatgan shaxs hujjatlarni taqdim etgan va akkreditivda nazarda tutilgan boshqa shartlarni bajargan taqdirda to‘lovni amalga oshirish majburiyatini oladi. Qoplangan (deponentlangan) akkreditiv ochilgan taqdirda bank-emitent uni ochish vaqtida mijozning o‘z mablag‘larini yoki unga berilgan kreditni bank emitentning majburiyatlari amal qilib turadigan butun muddatga ijrochi bank ixtiyoriga o‘tkazishi shart. Qoplanmagan akkreditiv ochilgan taqdirda bank-emitent ijrochi bankka akkreditivning butun summasini bank-emitentning ijrochi bankda yuritilayotgan hisobvarag‘idan o‘chirish xuquqini beradi.",
+    },
+    {
+        "name_uz": "AKKREDITLASHTIRISH",
+        "information_uz": "(lot. accredere – ishonch bildirmoq) – diplomatik vakolatxona rahbari sifatida muayyan shaxsga bir davlatning ikkinchi davlatdagi vazifalarini o‘tash vakolatlarini berish jarayoni. Diplomatik vakolatxona rahbarini akkreditlashtirish, qoidaga ko‘ra, agreman berilishi va ishonch yorlig‘ini davlat rahbariga topshirish marosimi bilan tugallanadi. Alohida konsullik muassasasining rahbari mezbon davlat tomonidan ekzekvatura berilganidan so‘ng akkreditlashtirilgan hisoblanadi.",
+    },
+    {
+        "name_uz": "AKKRETSIYA",
+        "information_uz": "– davlat hududining yangi paydo bo‘lgan quruqlik hisobiga tabiiy ravishda kengayishi.",
+    },
+    {
+        "name_uz": "AKSEPT",
+        "information_uz": "– oferta yuborilgan shaxsning uni qabul qilganligi haqidagi javobi. Aksept to‘liq va pisandasiz bo‘lishi kerak. Agar qonundan, ish muomalasi odatidan yoki taraflarning ish bo‘yicha avvalgi munosabatlaridan boshqacha maʼno kelib chiqmasa, sukut saqlash aksept bo‘lmaydi. Ofertani akseptlash uchun belgilangan muddatda olgan shaxsning unda ko‘rsatilgan shartnoma shartlarini bajarish yuzasidan qilgan harakatlari, agar qonun hujjatlarida yoki ofertada boshqacha tartib nazarda tutilmagan yoki ko‘rsatilmagan bo‘lsa, aksept hisoblanadi.",
+    },
+    {
+        "name_uz": "AKSIL REKLAMA",
+        "information_uz": "– avval berilgan noto‘g‘ri (insofsiz, bila turib yolg‘on) reklama keltirib chiqargan yoki keltirib chiqarishi mumkin bo‘lgan oqibatlarni bartaraf etish maqsadida tarqatiladigan raddiya.",
+    },
+    {
+        "name_uz": "AKSILREKLAMA",
+        "information_uz": "– noto‘g‘ri (insofsiz, bila turib yolg‘on) reklama keltirib chiqargan yoki keltirib chiqarishi mumkin bo‘lgan oqibatlarni bartaraf etish maqsadida tarqatiladigan raddiya.",
+    },
+    {
+        "name_uz": "AKSIYA",
+        "information_uz": "– o‘z egasining aksiyadorlik jamiyati foydasining bir qismini dividendlar tarzida olishga, aksiyadorlik jamiyatini boshqarishda ishtirok etishga va u tugatilganidan keyin qoladigan mol-mulkning bir qismiga bo‘lgan huquqini tasdiqlovchi, amal qilish muddati belgilanmagan, egasining nomi yozilgan emissiyaviy qimmatli qog‘oz.",
+    },
+    {
+        "name_uz": "AKSIYADORLIK JAMIYATI",
+        "information_uz": "– ustav fondi jamiyatning aksiyadorlarga nisbatan majburiyatlarini tasdiqlovchi muayyan miqdordagi aksiyalarga taqsimlangan xo‘jalik yurituvchi subyekt.",
+    },
+    {
+        "name_uz": "AKTIV SAYLOV HUQUQI",
+        "information_uz": "(saylash huquqi) – mamlakat fuqarolarining davlat hokimiyati vakillik organlariga saylash va referendumda qatnashish huquqi. Ko‘pchilik mamlakatlarda A.s.h.ga maʼlum yoshga yetgan, muomalaga layoqatli mamlakat fuqarolari ega bo‘ladi. O‘zbekistonda saylash huquqiga 18 yoshga yetgan barcha fuqarolar egadirlar. Sud tomonidan muomalaga layoqatsiz deb topilganlar, ozodlikdan mahrum qilish joylarida saqlanayotganlar saylash huquqidan foydalanmaydi, bunda ozodlikdan mahrum qilish joylarida saqlanayotganlarning saylash huquqi vaqtincha to‘xtatiladi. Baʼzi mamlakatlar, o‘zini o‘zi boshqarish organlariga bo‘lib o‘tayetgan saylovlarda chet el fuqarolari ham qatnashishlari mumkin.",
+    },
+    {
+        "name_uz": "ALDASH",
+        "information_uz": "– mol-mulk egasi yoki mol-mulk ishonib topshirilgan shaxsning o‘zi uni jinoyatchiga ixtiyoriy ravishda, o‘z xohishi bilan berishiga erishish maqsadida, jabrlanuvchini chalg‘itish uchun aybdor shaxs tomonidan har qanday faktni buzib ko‘rsatish yoki haqiqatni yashirish yoxud bila turib yolg‘on maʼlumotlarni xabar qilish.",
+    },
+    {
+        "name_uz": "ALIBI",
+        "information_uz": "(ot lat. alibi – boshqa joyda)– ayblanuvchi yoki gumon qilinuvchini jinoyat sodir etilish vaqtida jinoyat joyida bo‘lmaganligini va u bu vaqtda boshqa joyda bo‘lganligini tasdiqlovchi fakt.",
+    },
+    {
+        "name_uz": "ALIMENT",
+        "information_uz": "– lot. alimentum – “oziq-ovqat”, “nafaqa”, “taʼminot”, “boqish uchun mablag‘lar” degan maʼnolarni anglatadi. Aliment majburiyatlari oila aʼzolari o‘rtasida sodir bo‘ladi.",
+    },
+    {
+        "name_uz": "ALIMENT MIQDORINI O‘ZGARTIRISH YOKI ALIMENT TO‘LASHDAN OZOD QILISH",
+        "information_uz": "– aliment miqdori sud tartibida belgilanganidan keyin taraflardan birining moddiy yoki oilaviy ahvoli o‘zgarsa, sud ulardan har birining talabiga ko‘ra alimentning belgilangan miqdorini o‘zgartirishga yoki aliment to‘lashi shart bo‘lgan shaxsni aliment to‘lashdan ozod qilishga haqli. Aliment miqdorini o‘zgartirishda yoki uni to‘lashdan ozod qilishda sud taraflarning eʼtiborga loyiq boshqa manfaatlarini hisobga olishga haqli.",
+    },
+    {
+        "name_uz": "ALIMENT TO‘LASH TO‘G‘RISIDA KELISHUV",
+        "information_uz": "– aliment to‘lash to‘g‘risidagi kelishuv (aliment miqdori, shartlari va to‘lash tartibi) aliment to‘lashi shart bo‘lgan shaxs bilan aliment oluvchi o‘rtasida tuziladi. Agar aliment oluvchi muomalaga layoqatsiz bo‘lsa, kelishuv uning qonuniy vakili bilan tuziladi.",
+    },
+    {
+        "name_uz": "ALIMENT TO‘LASH TO‘G‘RISIDA KELISHUVNI O‘ZGARTIRISH YOKI BEKOR QILISH",
+        "information_uz": "– aliment to‘lash to‘g‘risidagi kelishuv taraflarning o‘zaro roziligi bilan istalgan vaqtda o‘zgartirilishi yoki bekor qilinishi mumkin. Aliment to‘lash to‘g‘risidagi kelishuv qanday shaklda tuzilgan bo‘lsa, uni o‘zgartirish yoki bekor qilish ham o‘sha shaklda amalga oshiriladi. Taraflarning moddiy yoki oilaviy ahvolida jiddiy o‘zgarishlar yuz berganda hamda aliment to‘lash to‘g‘risidagi kelishuvni o‘zgartirish yoki bekor qilish to‘g‘risida ular o‘zaro kelisha olmaganda, manfaatdor taraf kelishuvni o‘zgartirish yoki bekor qilish to‘g‘risidagi daʼvo bilan sudga murojaat qilishga haqli. Sud aliment to‘lash to‘g‘risidagi kelishuvni o‘zgartirish yoki bekor qilish masalasini hal qilishda taraflarning eʼtiborga loyiq har qanday manfaatini hisobga olishga haqli.",
+    },
+    {
+        "name_uz": "ALIMENT TO‘LASH TO‘G‘RISIDAGI KELISHUVGA BINOAN ALIMENT TO‘LASH USULLARI VA TARTIBI",
+        "information_uz": "– aliment to‘lash to‘g‘risidagi kelishuv bo‘yicha aliment to‘lash usullari va tartibi shu kelishuv bilan belgilanadi. Alimentlar: aliment to‘lashi shart bo‘lgan shaxsning ish haqi va (yoki) boshqa daromadiga nisbatan ulushlarda; vaqti-vaqtida pul bilan to‘lanadigan qatʼiy summada; bir yo‘la pul bilan to‘lanadigan qatiy summada; mol-mulk bilan yoki kelishuvda qayd etilgan boshqa usullarda to‘lanishi mumkin. Aliment to‘lash haqidagi kelishuvda aliment to‘lashning turli usullarini birga qo‘shib qo‘llash nazarda tutilishi mumkin.",
+    },
+    {
+        "name_uz": "ALIMENTLARNI",
+        "information_uz": "– alimentlarni to‘lash ikki usulda amalga oshiriladi. Bular: ixtiyoriy va sud tartibida. Aliment to‘lashi shart bo‘lgan shaxs alimentni ixtiyoriy ravishda shaxsan yoki o‘z arizasiga muvofiq ishlab turgan joyida yoxud pensiya, nafaqa, stipendiya va boshqa turdagi mablag‘ olayotgan joyida to‘lanadi. Aliment olish huquqiga ega bo‘lgan shaxs, aliment talab qilish huquqi vujudga kelganidan so‘ng qancha muddat o‘tganidan qatʼi nazar, xohlagan vaqtda aliment undirish to‘g‘risidagi talab bilan sudga murojaat qilishga haqlidir.",
+    },
+    {
+        "name_uz": "ALIMENTNI IDEKSATSIYA QILISH",
+        "information_uz": "– sudning hal qiluv qaroriga asosan pul bilan to‘lanadigan qatʼiy summada undirilayotgan alimentlarni indeksatsiya qilish alimentlar ushlab qolinayotgan joyda qonun hujjatlari bilan belgilangan eng kam oylik ish haqiga mutanosib ravishda amalga oshiriladi. Indeksatsiya qilish maqsadida alimentning miqdori sud tomonidan qonun hujjatlarida belgilangan eng kam oylik ish haqining muayyan qismiga mos ravishda pul bilan to‘lanadigan qatiy summada belgilanadi.",
+    },
+    {
+        "name_uz": "ALIMENTNI O‘Z VAQTIDA TO‘LAMAGANLIK UCHUN JAVOBGARLIK",
+        "information_uz": "– aliment to‘lash to‘g‘risidagi kelishuvga muvofiq aliment to‘lashi shart bo‘lgan shaxsning aybi bilan qarz vujudga kelgan bo‘lsa, aybdor shaxs ushbu kelishuvda belgilangan tartibda javobgar bo‘ladi. Sudning hal qiluv qaroriga ko‘ra aliment to‘lashi shart bo‘lgan shaxsning aybi bilan qarz vujudga kelgan bo‘lsa, aybdor shaxs kechiktirilgan har bir kun uchun to‘lanmay qolgan aliment summasining o‘ndan bir foizi miqdorida aliment oluvchiga neustoyka to‘laydi. Aliment oluvchi aliment o‘z vaqtida to‘lanmaganligida aybdor aliment to‘lashi shart bo‘lgan shaxsdan aliment to‘lash majburiyatlarini o‘z vaqtida bajarmaganlik oqibatida yetkazilgan barcha zararlarning neustoyka bilan qoplanmagan qismini undirishga ham haqlidir.",
+    },
+    {
+        "name_uz": "ALKOGOLIZM",
+        "information_uz": "– alkogolga nisbatan og‘riqli tortish, meʼyor hissini yo‘qotish, isteʼmol qilayotgan spirtli ichimlikning miqdorini nazorat qila olmaslik, ruhiy va somatik kasalliklar va ijtimoiy axloq meʼyorlarining buzilishi.",
+    },
+    {
+        "name_uz": "ALOHIDA FIKR",
+        "information_uz": "– hayʼatda ozchilik ovozga ega bo‘lgan sudyaning bevosita maslahatxonada yozma bayon qiladigan va ishga ilova qilinadigan fikri.",
+    },
+    {
+        "name_uz": "ALOHIDA QIMMATLI HUJJAT",
+        "information_uz": "– o‘chmas tarixiy-madaniy va ilmiy qimmatga, jamiyat hamda davlat uchun alohida ahamiyatga ega bo‘lgan, hisobga olish, saqlash va foydalanishning alohida tartibi belgilangan arxiv hujjati.",
+    },
+    {
+        "name_uz": "ALOHIDA TARTIBDA ISH YURITISH",
+        "information_uz": "– fuqarolik sud ishlarini yuritish turlaridan biri bo‘lib, qonunda belgilangan nizosiz ishlar (faktlar)ni belgilash tartibi tushuniladi. Alohida tartibda ko‘riladigan ishlarda huquq haqidagi nizo bo‘lmaydi va shunga ko‘ra u daʼvo ishlarini yuritishdan farq qiladi.\nAlohida tartibda yuritiladigan ishlar sifatida yuridik ahamiyatga ega bo‘lgan faktlarni aniqlash; fuqaroni bedarak yo‘qolgan deb topish va fuqaroni o‘lgan deb eʼlon qilish; fuqaroni muomala layoqati cheklangan yoki muomalaga layoqatsiz deb topish; g‘ayriixtiyoriy tartibda psixiatriya statsionariga yotqizish mol-mulkni (ashyoni) egasiz deb topish; taqdim etuvchiga deb berilgan hujjatlar yo‘qolgan taqdirda ular bo‘yicha huquqlarni tiklash (chaqirib ish yuritish) ga oid ishlar ko‘riladi. Yuridik ahamiyatga ega bo‘lgan faktlarni belgilash to‘g‘risidagi ishlar bo‘yicha arizalar arizachi (daʼvogar) yashab turgan joydagi sudga beriladi.",
+    },
+    {
+        "name_uz": "ALOHIDA TOIFADAGI JINOYAT ISHLARINI YURITISH",
+        "information_uz": "– alohida kategoriyadagi jinoyat ishlarini dastlabki tergovda va sud jarayonida yuritishning maxsus tartibi. Bunga voyaga yetmaganlar jinoyatchiligi to‘g‘risidagi ishlar; tibbiy yo‘sindagi majburlov choralarini qo‘llash bilan bog‘liq ishlar; yarashuv borasidagi ishlar; sudgacha bo‘lgan ish yurituvida amnistiya aktini qo‘llash bilan bog‘liq ishlar kiradi.",
+    },
+    {
+        "name_uz": "ALTERNATIV QASD",
+        "information_uz": "– aniqlangan (konkretlashtirilgan) qasdning bir turidir. Aybdor o‘zining sodir etgan huquqqa xilof qilmishi natijasidagi ikki yoki undan ortiq individual aniqlangan ijtimoiy xavfli oqibatlarning kelib chiqishi mumkinligini oldindan ko‘ra oladi va anglab yetadi.Shuningdek, subyektning irodasi teng darajalarda oqibatlardan xohlagan biriga erishishga qaratiladi.",
+    },
+    {
+        "name_uz": "ALTERNATIV SANKSIYA",
+        "information_uz": "– asosiy jazo sifatida tayinlanishi mumkin bo‘lgan ikki yoki undan ko‘proq jazo turlari ko‘rsatilgan sanksiya",
+    },
+    {
+        "name_uz": "AMIR",
+        "information_uz": "(arab. amir – “hokim”, “shoh”) – Sharqdagi bir qancha musulmon davlatlaridagi vorislik huquqiga ega bo‘lgan unvon; Buxoro va Afg‘onistondagi tarixiy unvonlar.",
+    },
+    {
+        "name_uz": "AMNISTIYA",
+        "information_uz": "(yun. amnestia – kechirish, gunohidan o‘tish) – oliy davlat hokimiyati organining xususiy akti, ayrim shaxslarning jinoiy jazodan ozod qilish, jinoyat ishini bekor etish yoki jazoni yengillashtirish to‘g‘risidagi qarori. A. jinoyat va b. huquqbuzarliklarni sodir etgan shaxslarni jazodan to‘la yoki qisman ozod etish, tayinlangan jazo turini yengilrog‘i b-n almashtirish to‘g‘risidagi insonparvarlikni namoyish qiluvchi farmoyishdir. O‘zR Kons. 80-m.ga ko‘ra, O‘zR Prezidenti A. to‘g‘risidagi hujjatlarni O‘zR Oliy Majlisining Senatiga takdim etadi. O‘zR sudlari tomonidan hukm qilingan shaxslarga nisbatan amnistiya to‘g‘risidagi hujjatlarni qabul qilish Senatning mutlaq vakolatiga kiradi.",
+    },
+    {
+        "name_uz": "AMNISTIYA AKTINI QO‘LLASH",
+        "information_uz": "– sudning eʼlon qilingan amnistiya aktini (aktlarini) qo‘llagan holda shaxsni javobgarlikdan yoki jazodan to‘liq yoxud yoki qisman ozod qilishga yoxud jazoni yengilrog‘i bilan almashtirishga qaratilgan vakolati.",
+    },
+    {
+        "name_uz": "AMORTIZATSIYA",
+        "information_uz": "(lot. amortisatio – qoplash) – asosiy vositalar eskirishining qiymatdagi ifodasi hamda asosiy vositalar va nomoddiy aktivlarning amortizatsiyalanadigan qiymatini ularning foydali xizmat muddati mobaynida asosiy vositalar va nomoddiy aktivlarning belgilangan maqsadidan kelib chiqqan holda mahsulot (ishlar, xizmatlar) tannarxiga yoki davr xarajatlariga olib borish va tizimli taqsimlash.",
+    },
+    {
+        "name_uz": "ANALITIK YURISPRUDENSIYA",
+        "information_uz": "(yunon. analytikos – tahlilga tegishli va lot. iurisprudentia – huquqshunoslik) – amaldagi huquqni har tomonlama o‘rganish, uni samaradorligini oshirishga qaratilgan ilmiy o‘rganish tizimi.",
+    },
+    {
+        "name_uz": "ANALOGIYA",
+        "information_uz": "– muayyan ish yoki nizoni huquqning asosiy tamoyillari va maʼnosidan kelib chiqib, ko‘rib chiqish va yechim topish.",
+    },
+    {
+        "name_uz": "ANARXIZM",
+        "information_uz": "– har qanday hokimiyat va davlatni inkor etuvchi, har kim o‘ziga o‘zi xo‘jayin, degan qarashni asos qilib oluvchi g‘oyalar asosida shakllangan ijtimoiy–siyosiy oqim",
+    },
+    {
+        "name_uz": "ANARXIZM",
+        "information_uz": "– yunon tilidan olingan bo‘lib, anarchia – hokimiyatsizlik maʼnosini bildiradi. Anarxizm siyosiy oqim bo‘lib, siyosiy-tarixiy jarayonlarning murakkab pallasida siyosiy jarayonlarga taʼsir etishga intilish usuli. Anarxizmning barcha ko‘rinishlarining umumiy jihati ijtimoiy tengsizlikning barcha ko‘rinishlarining manbai deb hisoblaydi.",
+    },
+    {
+        "name_uz": "ANATOMIK BELGILAR",
+        "information_uz": "– odam tashqi qiyofasi va ko‘rinishining alohida guruhlarini tashkil etuvchi insonning tug‘ma belgilari yig‘insididir (masalan, bo‘yi, gavdasi, boshi, bosh suyagi, va boshqalar).",
+    },
+    {
+        "name_uz": "ANCHA MIQDOR",
+        "information_uz": "– eng kam oylik ish haqining o‘ttiz baravaridan yuz baravarigacha bo‘lgan miqdor.",
+    },
+    {
+        "name_uz": "ANCHA MIQDORDAGI ZARAR",
+        "information_uz": "– eng kam oylik ish haqining o‘ttiz baravaridan yuz baravarigacha bo‘lgan miqdordagi zarar.",
+    },
+    {
+        "name_uz": "ANGARIYA",
+        "information_uz": "– urushayotgan tomonlardan birining hududida joylashgan betaraf (neytral) davlatlarning kemalari va boshqa transport, temir yo‘l vositalaridan ushbu tomonning harbiy maqsadlarda foydalanishi.",
+    },
+    {
+        "name_uz": "ANIQ MAQSADLI QARZ",
+        "information_uz": "– Agar qarz shartnomasi qarz oluvchining mablag‘lardan aniq maqsadda (aniq maqsadli qarz) foydalanishi sharti bilan tuzilgan bo‘lsa, qarz oluvchi qarz beruvchiga qarz summasidan aniq maqsadda foydalanilishini nazorat qilish imkoniyatini taʼminlab berishi shart. Qarz oluvchi qarz shartnomasining qarz summasidan aniq maqsadda foydalanish haqidagi shartlarini bajarmagan taqdirda, agar shartnomada boshqacha tartib nazarda tutilgan bo‘lmasa, qarz beruvchi qarz oluvchidan qarz summasini muddatidan oldin qaytarishni va tegishli foizlarni to‘lashni talab qilishga haqli.",
+    },
+    {
+        "name_uz": "ANIQLANGAN (KONKRETLASHTIRILGAN) QASD",
+        "information_uz": "– subyekt kelib chiqishi mumkin bo‘lgan zararning hajmi va xususiyati to‘g‘risida aniq tasavvurga ega bo‘lib, muayyan ijtimoiy xavfli oqibatlarning kelib chiqishini oldindan ko‘ra olishi, qandaydir jinoiy natijaga erishishni istashi.",
+    },
+    {
+        "name_uz": "ANIQLANMAGAN (KONKRETLASHTIRILMAGAN) QASD",
+        "information_uz": "aybdorning o‘zi sodir etayotgan qilmi – shi oqibatlari to‘g‘risida umumiy tasavvurga ega bo‘lishi, yaʼni ularning individual aniqlangan bo‘lmaganligi, yetkaziladigan zararning hajmi va xususiyati konkret bo‘lmasligi.",
+    },
+    {
+        "name_uz": "ANKLAV",
+        "information_uz": "(lot. inclavo – qulflayman) – bir davlat hududining boshqa bir davlat yoki davlatlar hududi bilan to‘laligicha o‘rab olingan qismi.",
+    },
+    {
+        "name_uz": "ANNEKSIYA",
+        "information_uz": "(lot. annexio – birlashtirish, qo‘shib olish) – bir davlat hududini (yoki uning bir qismini) – boshqa davlat tomonidan zo‘ravonlik bilan egallab olish yoki o‘z davlatiga qo‘shib olish siyosati, agressiya ko‘rinishlaridan biri. Xalq yoki qavmlarni o‘zga davlat chegaralarida zo‘rlik ishlatib ushlab turish. Xalqaro huquq normalari, millatlarning o‘z taqdirini o‘zi belgilash, xalqaro tinch-totuv yashash tamoyillarini qo‘pol ravishda buzish, qo‘shib olinayotgan hudud aholisining manfaat va irodasini poymol qilishni taqiqlaydi. A. siyosati baʼzan yashirin holda ham olib boriladi.",
+    },
+    {
+        "name_uz": "ANNUITETLAR SHARTNOMASI BO‘YICHA SUG‘URTALOVCHI",
+        "information_uz": "– hayotni sug‘urta qilish sohasida faoliyatni amalga oshiruvchi yuridik shaxs.",
+    },
+    {
+        "name_uz": "ANTIDEMPING BOJI",
+        "information_uz": "– demping narxlaridagi tovar importi uchun import bojidan tashqari undiriladigan boj.",
+    },
+    {
+        "name_uz": "ANTONIMIYA",
+        "information_uz": "– so‘z maʼnolarining bir–biriga zid kelishi. Bu huquqni tushuntirishda ahamiyatga ega (huquq va majburiyat).",
+    },
+    {
+        "name_uz": "APARTEID",
+        "information_uz": "(Afrika burlari tilidan apartheid – alohida yashash) – davlat aholisining irqiy belgilari bo‘yicha ajratishga yo‘naltirilgan irqiy siyosat. A. irqiy kamsitishning keskin shakllaridan biri bo‘lib, irqiga ko‘ra davlat aholisi guruhining huquqlari boshqa aholi guruhlariga nisbatan kamsitiladi, ular siyosiy, ijtimoiy-iqtisodiy va fuqarolik huquqlaridan mahrum qilinadilar. Bir irqning ikkinchi bir irq ustidan hukmronligini o‘rnatish va ushlab turish hamda ularga doimiy ravishda zulm o‘tkazish uchun aholi maxsus ajratilgan joylar (rezervatsiyalar)da saklanadi.",
+    },
+    {
+        "name_uz": "APATRID",
+        "information_uz": "(yun. apatris – vatanidan judo bo‘lgan) – fuqaroligi bo‘lmagan shaxs, yaʼni biror davlat b-n doimiy va barqaror siyosiy huquqiy aloqaga ega bo‘lmagan shaxs.",
+    },
+    {
+        "name_uz": "APELLYATSIYA",
+        "information_uz": "– qonuniy kuchga kirmagan sud hukmi, ajrim va qarorlari qonuniyligi, asosligi va adolatliligini tekshirishiga oid munosabatlarni tartibga soluvchi huquq instituti. A. – lotincha “appelatio” so‘zidan olingan bo‘lib, “murojaat” degan maʼnoni anglatib, birinchi instansiya sudining hal qiluv qarorlari va ajrimlarini qayta tekshirish instituti sanalib, fuqarolik ishlari bo‘yicha sudning hal qiluv qarori chiqqan kundan eʼtiboran yigirma kun ichida taraflar va ishda ishtirok etishga jalb qilingan shaxslar hal qiluv qarori ustidan apellyatsiya shikoyati berishlari, prokuror protest keltirishi mumkin. A. shikoyatlari va protestlari apellyatsiya instansiyasi nomiga yoziladi, lekin hal qiluv qarori chiqargan sudga beriladi.",
+    },
+    {
+        "name_uz": "APELLYATSIYA INSTANSIYASI",
+        "information_uz": "– apellyatsiya tartibida ish ko‘ruvchi sudlar tizimi bo‘lib, ularga Qoraqalpog‘iston Respublikasi fuqarolik ishlari bo‘yicha Oliy sudi, fuqarolik ishlari bo‘yicha viloyatlar va Toshkent shahar sudlari; O‘zbekiston Respublikasi Harbiy sudi; O‘zbekiston Respublikasi Oliy sudining Fuqarolik ishlari bo‘yicha sudlov hayʼati; O‘zbekiston Respublikasi Oliy sudining Harbiy hayʼati kiradi. Sudning qonuniy kuchga kirmagan hukmlari, bo‘yicha, birinchi instansiya sudining qaror va ajrimlari, sudgacha ish yurituvda qabul qilingan qarorlar ustidan berilgan shikoyat yoki protestlar bo‘yicha berilgan jinoyat, fuqarolik, xo‘jalik ishlarini ko‘rib chiquvchi mustaqil bosqich.",
+    },
+    {
+        "name_uz": "APELLYATSIYA INSTANSIYASI AJRIMI",
+        "information_uz": "– ishda ishtirok etuvchi shaxslarning tushuntirishlari va prokurorning fikri tinglab bo‘linganidan keyin apellyatsiya instansiyasi sudi ajrim chiqarish uchun maslahatxonaga chiqadi.\nApellyatsiya instansiyasi sudining ajrimi ish ko‘rilganidan keyin darhol chiqariladi.",
+    },
+    {
+        "name_uz": "APELLYATSIYA INSTANSIYASI QARORI",
+        "information_uz": "– jinoyat ishlari bo‘yicha sud ishni apellyatsiya tartibida ko‘rish natijasida quyidagi qarorlardan birini qabul qiladi: 1) hukmni o‘zgarishsiz, shikoyat yoki protestni esa qanoatlantirishsiz qoldiradi; 2) birinchi instansiya sudining ayblov hukmini bekor qiladi hamda oqlov hukmi chiqaradi; 3) birinchi instansiya sudining hukmini bekor qiladi hamda ishni tugatadi; 4) birinchi instansiya sudining hukmini o‘zgartiradi; 5) birinchi instansiya sudining hukmini bekor qiladi hamda JPKni 419-moddasining birinchi qismida ko‘rsatilgan asoslar bo‘yicha ishni qo‘shimcha tergov yuritish uchun yuboradi; 6) birinchi instansiya sudining hukmini yoki ajrimini bekor qiladi hamda ishni yangitdan sudda ko‘rish uchun yuboradi.",
+    },
+    {
+        "name_uz": "APELLYATSIYA PROTESTI",
+        "information_uz": "– jinoyat ishlari bo‘yicha qonuniy kuchga kirmagan hukm ustidan shikoyat hukm qarori qaysi shaxslarning manfaatiga taalluqli bo‘lsa, shu shaxslar tomonidan, yaʼni mahkum, oqlangan shaxs, jabrlanuvchi, fuqaroviy daʼvogar, fuqaroviy javobgar hamda tegishincha bu shaxslarning himoyachilari va vakillari tomonidan beriladi hamda u apellyatsiya shikoyati deb ataladi. A.p. – fuqarolik ishlari bo‘yicha sudning hal qiluv qarori chiqqan kundan eʼtiboran yigirma kun ichida prokuror tomonidan keltiriladigan (eʼtiroznoma) protest keltirish. Ushbu protest sudning qarori qonuniy, asosli va adolatli ekanligi yuzasidan tekshiruv o‘tkazish uchun asos bo‘ladi. Prokuror muayyan ishda ishtirok etgan-etmaganligidan qatʼi nazar, sudning hal qiluv qarori, ajrimi, qarori ustidan o‘z vakolati doirasida protest keltiradi.",
+    },
+    {
+        "name_uz": "APELLYATSIYA SHIKOYATI",
+        "information_uz": "– ishda ishtirok etuvchi shaxslar sudning qarori qonuniy, asosli va adolatli ekanligini tekshirish haqidagi shikoyat (ariza) bilan sudning hal qiluv qarori chiqqan kundan eʼtiboran yigirma kun ichida qonunda belgilangan tartibdagi murojaatidir.",
+    },
+    {
+        "name_uz": "APELLYATSIYA SHIKOYATI BERISH VA APELLYATSIYA PROTESTINI BILDIRISH",
+        "information_uz": "– apellyatsiya shikoyati berilganligi qonuniy manfaatlari qabul qilingan hukm qaroriga qaysi fuqaroning manfaatlari bog‘liq bo‘lsa, shu fuqaroni himoya etishning huquqiy mexanizmini harakatga keltirib, apellyatsiya instansiyasi sudi zimmasiga hukm adolatlimi yoki yo‘qmi ekanligini aniqlash, shikoyatda keltirilgan har bir vajga asoslantirilgan javob berish, nomlari zikr etib o‘tilgan shaxslarning huquqlari hamda qonun bilan qo‘riqlanadigan manfaatlari buzilayotganligini bartaraf etishga, ustidan shikoyat berilgan hukmning qonuniyligi, asosliligi va adolatliligini taʼminlashga doir choralar ko‘rish majburiyatini yuklaydi.",
+    },
+    {
+        "name_uz": "APELLYATSIYA SUDINING VAKOLATLARI",
+        "information_uz": "– sud ishni apellyatsiya tartibida ko‘rib chiqqach, o‘z ajrimi bilan hal qiluv qarorini o‘zgarishsiz qoldirishga, shikoyat yoki protestni esa qanoatlantirmaslikka; ishni yangidan ko‘rish uchun yubormasdan hal qiluv qarorini o‘zgartirishga yoxud butunlay yoki qisman bekor qilishga va yangi hal qiluv qarori chiqarishga; qonunda nazarda tutilgan asoslar mavjud bo‘lgan taqdirda hal qiluv qarorini butunlay yoki qisman bekor qilishga va ishni birinchi instansiya sudiga yangidan ko‘rib chiqish uchun yuborishga; hal qiluv qarorini butunlay yoki qisman bekor qilishga hamda O‘zbekiston Respublikasining Fuqarolik protsessual kodeksining 97 va 100-moddalarida ko‘rsatilgan asoslarga ko‘ra ish yuritishni tugatishga yoxud arizani ko‘rmasdan qoldirishga haqli.",
+    },
+    {
+        "name_uz": "APELLYATSIYA TARTIBIDA ISH KO‘RILGANDA JAZONI KUCHAYTIRISHGA HAMDA OG‘IRROQ JINOYATGA DOIR QONUN MODDALARINI QO‘LLANISHGA YO‘L QO‘YILMASLIGI",
+        "information_uz": "– bu bosqichda ish ko‘rilishining eng muhim qoidalaridan biri, yaʼni sud jinoyat ishini apellyatsiya, kassatsiya yoki nazorat tartibida ko‘rgan vaqtida jazoni kuchaytirishga, shuningdek, og‘irroq jinoyatga doir qonun moddalarini qo‘llashga haqli emas.",
+    },
+    {
+        "name_uz": "APELLYATSIYA TARTIBIDA ISH YURITISH",
+        "information_uz": "– jinoyat ishlari yurituvida birinchi instansiya sudining qonuniy kuchga kirmagan hukmlari va ajrimlari ustidan shikoyat berish va protest bildirish, jinoyat ishlarini sudning qaysi hukmi (ajrimi) ustidan apellyatsiya shikoyati berilgan yoki protesti bildirilgan bo‘lsa, shu hukmning, ajrimning qonuniyligi, asosliligi va adolatliligini hal etish maqsadida jinoyat ishlarini apellyatsiya shikoyatlari va protestlari asosida apellyatsiya (ikkinchi) instansiya sudi tomonidan ko‘rish borasidagi faoliyatning qonun yo‘li bilan tartibga solinishi.",
+    },
+    {
+        "name_uz": "APELLYATSIYA TARTIBIDA SHIKOYAT BERISH SUBYEKTLARI",
+        "information_uz": "– jinoyat ishlari bo‘yicha apellyatsiya tartibida shikoyat berish huquqi ishning yakunidan bevosita manfaatdor protsess ishtirokchilariga tegishli: mahkum, uning himoyachisi, qonuniy vakili, shuningdek,, jabrlanuvchi, uning vakili, fuqaroviy daʼvogar, fuqaroviy javobgar va ularning vakillari.",
+    },
+    {
+        "name_uz": "APOSTIL",
+        "information_uz": "– 1961 yilgi Gaaga konvensiyasiga asosan, Konvensiya ishtirokchi-davlatlarning hujjatlarida diplomatik va konsullik legalizatsiyadan ozod etish maqsadida ushbu hujjatlarga qo‘yiladigan maxsus shtamp.",
+    },
+    {
+        "name_uz": "AQLI NORASOLIK",
+        "information_uz": "– bu shunday holatki, bunda shaxs jinoyat sodir etish vaqtida sodir etayotgan harakatlarining (harakatsizlik) ijtimoiy xavflilik xususiyatini anglay va boshqara olmaydi, bu o‘z navbatida jinoiy javobgarlikni istisno qiladi.",
+    },
+    {
+        "name_uz": "AQLI RASOLIK",
+        "information_uz": "– shaxs o‘z qilmishining ijtimoiy xavflilik xususiyatini anglashi va boshqara olishi.",
+    },
+    {
+        "name_uz": "AQLI ZAIFLIK",
+        "information_uz": "– tug‘ilish vaqtida miyaning jarohatlanishi bilan shartlanadigan yoki bola ruhiyatining kasallik holatlari natijasida go‘daklikda orttirilgan patologik holat.",
+    },
+    {
+        "name_uz": "ARALASH DISPOZITSIYA",
+        "information_uz": "– oddiy, tasvirlov, blanket yoki havolaki dispozitsiyalardan kamida ikkitasining bitta norma dispozitsiyasida ifodalanishi.",
+    },
+    {
+        "name_uz": "ARALASH SAYLOV TIZIMI",
+        "information_uz": "– bir qator mamlakatlarda (Germaniya, Litva) proporsional va majoritar saylov tizimi uyg‘unligini o‘zida aks ettirgan saylov tizimining bir ko‘rinishi. Hozirgi kunda a.s.t. ko‘pgina davlatlarda amal qilib kelmoqda (birincha navbatda Markaziy va Sharqiy Yevropa davtlarida).",
+    },
+    {
+        "name_uz": "ARBITRAJ (HAKAMLIK) SUDLARI",
+        "information_uz": "– muayyan bir fuqaroviy, maʼmuriy va boshqa huquqiy munosabatlardan kelib chiqadigan iqtisodiy nizolar bo‘yicha ishlarni qonunda belgilangan tartibda mazmunan ko‘rib chiqish va hal etish vakolatiga ega bo‘lgan sud hokimiyati organlari.",
+    },
+    {
+        "name_uz": "ARISTROKRATIYA",
+        "information_uz": "– (yunon. ἀριστεύς – “zodagon, aslzoda” va κράτος – “hokimiyat, davlat, qudrat”) – oqsuyaklar boshqaruvi. Davlat boshqaruvchisi faqatgina tanlangan zotdan bo‘lishi lozim.",
+    },
+    {
+        "name_uz": "ARIZA",
+        "information_uz": "– fuqaroning (bir necha shaxslarning) davlat organiga yoki mahalliy o‘zini o‘zi boshqarish organiga, tashkilot, muassasaning maʼmuriyatiga yoxud boshqa mansabdor shaxsga rasmiy murojaati hisoblanib, u shikoyatdan farqli ravishda shaxsning qonuniy huquq va manfaatlarini buzilishi bilan bog‘liq bo‘lmaydi va ushbu qonunbuzarlikni bartaraf etish iltimosini o‘zida aks etmaydi, balki arizachining huquq va manfaatlarini amalga oshirishga yoki korxona, muassasa, tashkilot faoliyatida uchraydigan kamchiliklarni bartaraf etishga qaratilgan bo‘ladi. A. ham og‘zaki, ham yozma tarzda berilishi mumkin. A. fuqarolarning o‘z huquqlari, erkinliklari va qonuniy manfaatlarini ro‘yobga chiqarishda yordam ko‘rsatish to‘g‘risidagi iltimosi bayon etilgan murojaatdir. A.larni ko‘rib chiqish tartibi shikoyatlarni ko‘rib chiqish tartibi bilan deyarli bir xil.",
+    },
+    {
+        "name_uz": "ARIZACHI",
+        "information_uz": "– sud va boshqa organlarga ariza bilan murojaat qilgan shaxs.",
+    },
+    {
+        "name_uz": "ARIZANI QABUL QILISHNI RAD ETISH",
+        "information_uz": "– sud tomonidan arizani qabul qilish va ish qo‘zg‘atish jarayonida amalga oshiriladigan protsessual harakat bo‘lib, sud o‘z ajrimi bilan quyidagi hollarda arizani qabul qilishni rad etadi, agar: ariza sudda ko‘rishga tegishli bo‘lmasa; sudning aynan taraflar o‘rtasida, aynan bir narsa to‘g‘risida va aynan bir asoslar bo‘yicha chiqqan nizo yuzasidan qabul qilinib, qonuniy kuchga kirgan hal qiluv qarori yoxud daʼvogarning arz qilgan talablaridan voz kechganligini qabul qilish yoki taraflarning kelishuv bitimini tasdiqlash to‘g‘risidagi ajrimi mavjud bo‘lsa; sud aynan bir taraflar o‘rtasida, aynan bir narsa to‘g‘risida va aynan bir asoslar bo‘yicha chiqqan nizo yuzasidan ish yuritayotgan bo‘lsa; taraflar o‘rtasida ushbu nizoni hal qilish uchun hakamlik sudiga topshirish haqida hakamlik bitimi tuzilgan bo‘lsa; ish shu sudning sudloviga taalluqli bo‘lmasa; ariza muomalaga layoqatsiz shaxs tomonidan berilgan bo‘lsa; manfaatdor shaxs nomidan arizani ish yuritish vakolatiga ega bo‘lmagan shaxs bergan bo‘lsa.",
+    },
+    {
+        "name_uz": "ARMIYA",
+        "information_uz": "( lot. armo – qo‘shin) – har qanday davlatning o‘z mustaqilligini tashqi tajovuzlardan saqlashining asosiy vositalaridan hisoblanuvchi qurolli kuchlaridir. Armiyaning tarkibi, soni davlat tomonidan ehtiyoj va imkoniyatlariga qarab belgilanadi. Armiya davlatni davlat sifatida ko‘rsatuvchi belgilardan biridir.",
+    },
+    {
+        "name_uz": "ARXEOLOGIYA ASHYOLARI DAVLAT KATALOGI",
+        "information_uz": "– har bir arxeologiya ashyosi to‘g‘risidagi asosiy maʼlumotlar mavjud bo‘lgan hisobga olish hujjati.",
+    },
+    {
+        "name_uz": "ARXEOLOGIYA ASHYOSI",
+        "information_uz": "– arxeologiya qidiruvlari, arxeologiya qazishmalari va arxeologiya nazoratini amalga oshirishda yoki xo‘jalik va o‘zgacha faoliyat jarayonida aniqlangan, shuningdek, tasodifan topilgan (xazina) va identifikatsiyalashdan o‘tkazilgan moddiy qoldiq.",
+    },
+    {
+        "name_uz": "ARXEOLOGIYA MEROSI OBYEKTLARI",
+        "information_uz": "– arxeologiya obyektlari va arxeologiya ashyolari majmui.",
+    },
+    {
+        "name_uz": "ARXEOLOGIYA NAZORATI",
+        "information_uz": "– arxeologiya tadqiqotining arxeologiya obyektini saqlash maqsadida amalga oshiriladigan va arxeologiya obyekti hududining chegaralarida yer qazish, yer tuzish, qurilish, melioratsiya, xo‘jalik, yo‘lsozlik ishlarini va boshqa ishlarni bajarishda madaniy meros obyektlarini saqlash talablariga rioya qilinishi ustidan nazorat o‘rnatiladigan turi.",
+    },
+    {
+        "name_uz": "ARXEOLOGIYA OBYEKTI",
+        "information_uz": "– inson faoliyatining barcha ko‘rinishlariga taalluqli hamda saqlanish holatidan qatʼi nazar arxeologik, antropologik, etnografik qimmatga yoki o‘zga tarixiy, ilmiy, badiiy, madaniy qiymatga ega bo‘lgan joy, inshoot (asar), imorat, majmua (ansambl), ularning bo‘laklari, ular bilan bog‘liq hududlar.",
+    },
+    {
+        "name_uz": "ARXEOLOGIYA QAZISHMALARI",
+        "information_uz": "– arxeologiya tadqiqotining arxeologiya obyektida qazishma ishlarini qo‘llagan holda madaniy qatlamlar, meʼmoriy va boshqa moddiy qoldiqlarni o‘rganish maqsadida amalga oshiriladigan turi.",
+    },
+    {
+        "name_uz": "ARXEOLOGIYA QIDIRUVLARI",
+        "information_uz": "– arxeologiya tadqiqotining arxeologiya obyekti madaniy qatlamining yemirilishi bilan bog‘liq bo‘lmagan (madaniy qatlam qalinligini aniqlash uchun cheklangan qazishmadan tashqari) va arxeologiya obyektini aniqlash, xaritalashtirish, uning chegaralarini belgilash, izohlash, tekshirish, shuningdek, ilgari aniqlangan arxeologiya obyekti to‘g‘risida zamonaviy maʼlumotlarni olish maqsadida amalga oshiriladigan turi.",
+    },
+    {
+        "name_uz": "ARXEOLOGIYA TADQIQOTI",
+        "information_uz": "– arxeologiya obyektlari, arxeologiya yodgorliklari va arxeologiya ashyolarini o‘rganish orqali yangi bilimlarni egallash maqsadida amalga oshiriladigan faoliyat.",
+    },
+    {
+        "name_uz": "ARXEOLOGIYA YODGORLIGI",
+        "information_uz": "– moddiy madaniy meros obyektlarining davlat kadastriga kiritilgan arxeologiya obyekti.",
+    },
+    {
+        "name_uz": "ARXIV",
+        "information_uz": "– arxiv hujjatlarini jamlash, hisobga olish, saqlash va ulardan foydalanishni amalga oshiruvchi muassasa.",
+    },
+    {
+        "name_uz": "ARXIV FONDI",
+        "information_uz": "– yuridik yoki jismoniy shaxslar faoliyati natijasida yaratilgan, tarixiy yoki mantiqiy jihatdan o‘zaro aloqador arxiv hujjatlari majmui.",
+    },
+    {
+        "name_uz": "ARXIV HUJJATLARI",
+        "information_uz": "– fuqarolar, jamiyat va davlat uchun ahamiyati bois saqlanishi lozim bo‘lgan matnli, qo‘lyozma va mashinada o‘qiladigan hujjatlar, ovozli yozuvlar, videoyozuvlar, kinolentalar, fotosuratlar, fotografiya plyonkalari, chizmalar, sxemalar, xaritalar, shuningdek, boshqa moddiy jismlardagi yozuvlar.",
+    },
+    {
+        "name_uz": "ARXIV HUJJATLARINI DEPOZITAR SAQLASH",
+        "information_uz": "– arxiv hujjatlarini ularning mulkdori (egasi) bilan arxiv, muzey, kutubxona o‘rtasidagi kelishuvda (shartnomada) belgilanadigan muddatlar va shartlar asosida mulkdorning (egasining) arxiv hujjatlariga bo‘lgan mulk huquqini (egalik huquqini) saqlab qolgan holda saqlash.",
+    },
+    {
+        "name_uz": "ARXIV ISHI",
+        "information_uz": "– arxiv hujjatlarini jamlash, hisobga olish, saqlash va ulardan foydalanishni tashkil etish bo‘yicha faoliyat.",
+    },
+    {
+        "name_uz": "ARZ QILISH",
+        "information_uz": "– fuqarolarning sud va boshqa organlarga turli masalalar (g‘ayriqonuniy xatti-harakatlar, xuquq buzilishlar, huquq va erkinliklarni amalga oshirish yo‘lida to‘sqinliklar va boshq.) yuzasidan murojaat qilish.",
+    },
+    {
+        "name_uz": "ASHYOLAR",
+        "information_uz": "– muayyan moddiy qiymatga ega bo‘lgan hamda iqtisodiy munosabatning predmeti bo‘la oladigan narsalar. Fuqarolik huquqida ashyolar o‘z xususiyati, tayinlanish maqsadi va boshqa jihatlariga ko‘ra quyidagi turlarga bo‘linadi: xususiy va turga xos alomatlari bilan belgilangan ashyolar; bo‘linadigan va bo‘linmaydigan ashyolar; isteʼmol qilinadigan va isteʼmol qilinmaydigan ashyolar; asosiy va mansub ashyolar; murakkab ashyolar.",
+    },
+    {
+        "name_uz": "ASHYOLARNI EGASIZLANTIRIB SAQLASH",
+        "information_uz": "– ashyo egasizlantirib saqlanganida saqlash uchun qabul qilingan ashyolar boshqa yuk topshiruvchilarning shunga o‘xshash va shunday sifatli ashyolari bilan aralashtirib yuborilishi mumkin. Yuk topshiruvchiga teng miqdorda yoki taraflar kelishgan miqdorda shunga o‘xshash va shunday sifatli ashyolar qaytarib beriladi. Egasizlantirib saqlash bunday hol omonat saqlash shartnomasida bevosita nazarda tutilgan hollardagina amalga oshiriladi.",
+    },
+    {
+        "name_uz": "ASHYOLARNI KO‘ZDAN KECHIRISH",
+        "information_uz": "– ko‘zdan kechirish tergov harakatining turi bo‘lib, murda aniqlangan joyda jabrlanuvchining shaxsi, o‘lim joyi, vaqti, sababi va holatlarini, shuningdek, ushbu jinoyatni sodir etgan jinoyatchini aniqlashga yordam beradigan belgilarni topish maqsadida surishtiruvchi yoki tergovchi tomonidan o‘tkaziladigan tergov harakati (JPK 180-m.). Ashyolarni ko‘zdan kechirish xolislar va sud tibbiy ekspertiza xodimi (yoki boshqa shifokor) ishtirokida amalga oshiriladi.",
+    },
+    {
+        "name_uz": "ASHYOLARNI KREDITGA BERISH SHARTNOMASI",
+        "information_uz": "– taraflar bir tarafning kredit shartnomasi shartlari asosida turga xos alomatlari bilan belgilangan ashyolarni ikkinchi tarafga berish majburiyatini nazarda tutuvchi shartnomani tuzishlari mumkin. Ashyolarni kreditga berish to‘g‘risidagi shartnomada boshqacha tartib nazarda tutilgan bo‘lmasa, shartnomaning berilayotgan ashyolarning miqdori, assortimenti, to‘liqligi, sifati, idishi va (yoki) o‘ralishi haqidagi shartlari tovarlarni oldi-sotdi shartnomasi to‘g‘risidagi qoidalarga muvofiq bajarilishi shart.",
+    },
+    {
+        "name_uz": "ASHYOLARNI LOMBARDDA GAROVGA QO‘YISH",
+        "information_uz": "– tadbirkorlik faoliyatini amalga oshiruvchi, ixtisoslashgan, litsenziyasi bo‘lgan tashkilot-lombardga fuqarolardan shaxsiy isteʼmolga mo‘ljallangan ko‘char mol-mulkni qisqa muddatli kreditlarni taʼminlash uchun garovga qabul qilishdir. A.L.G.Q. haqidagi shartnoma lombard tomonidan garov pattasi berish yo‘li bilan rasmiylashtiriladi va garovga qo‘yilayotgan ashyolar lombardga topshiriladi. Lombard garovga qo‘yilgan ashyolardan foydalanishga va ularni tasarruf etishga haqli emas.",
+    },
+    {
+        "name_uz": "ASHYONI MEHMONXONADA SAQLASH",
+        "information_uz": "– mehmonxona unda yashayotgan shaxs tomonidan olib kirilgan ashyolarning yo‘qolganligi, kam chiqqanligi yoki shikastlanganligi uchun omonat saqlovchi sifatida alohida kelishuv bo‘lmagan taqdirda ham javob beradi, ashyo yengib bo‘lmaydigan kuch, ashyoning o‘z xossalari oqibatida yoki mehmonxonada yashovchining o‘zi, uning hamrohlari yoki uning yoniga kelgan shaxslar aybi bilan yo‘qolgan, kam chiqqan yoki shikastlangan hollar bundan mustasno. Mehmonxona xodimlariga ishonib topshirilgan ashyo yoki mo‘ljallangan joyga (mehmonxona nomeri va boshqalarga) joylashtirilgan ashyo mehmonxonaga olib kirilgan ashyo deb hisoblanadi. Pul, boshqa valyuta qimmatliklari, qimmatli qog‘ozlar va boshqa qimmatbaho ashyolar saqlash uchun alohida omonat saqlash shartnomasi bo‘yicha qabul qilib olingan bo‘lsagina, mehmonxona ularning yo‘qolganligi uchun javobgar bo‘ladi. Mehmonxonada yashayotgan, o‘z ashyolarining yo‘qolganligi, kam chiqqanligi yoki shikastlanganligini bilib qolgan shaxs mehmonxona maʼmuriyatiga bu haqda kechiktirmay xabar qilishi shart. Aks holda mehmonxona ashyolarning to‘liq saqlanmaganligi uchun javobgarlikdan ozod qilinadi. Mehmonxona bu yerda yashayotgan shaxslarning ashyolari saqlanishi uchun javobgarlikni o‘z zimmasiga olmasligini eʼlon qilgan taqdirda ham, javobgarlikdan ozod qilinmaydi.",
+    },
+    {
+        "name_uz": "ASHYONI TASHKILOTLARNING KIYIMXONALARIDA SAQLASH",
+        "information_uz": "– agar tashkilotlarning kiyimxonalarida ashyolarni haq evaziga saqlash haqida ashyoni saqlashga topshirish vaqtida kelishib qo‘yilgan yoki boshqa ochiq usulda shartlashilgan bo‘lmasa, ularda ashyo saqlash bepul hisoblanadi. Ashyo kiyimxonada saqlash uchun qabul qilib olinganligini tasdiqlash uchun saqlovchi yuk topshiruvchiga nomerli jeton yoki ashyo saqlash uchun qabul qilib olinganligini tasdiqlovchi boshqa belgi beradi. Kiyimxonaga topshirilgan ashyo jeton taqdim etuvchiga beriladi. Bunda saqlovchi jeton taqdim etuvchining ashyoni olishga vakolatlarini tekshirishi shart emas. Biroq, omonat saqlovchi jeton uni taqdim etuvchiga qarashli ekanligiga shubhalansa, ashyoni jeton taqdim etuvchiga qaytarib berishni to‘xtatib turishga haqli.\nYuk topshiruvchi jetonni yo‘qotib qo‘ygan, lekin uning ashyolarni kiyimxonaga topshirganligi yoki ashyolarning unga tegishliligi saqlovchida shubha tug‘dirmagan yoxud yuk topshiruvchi tomonidan isbotlangan hollarda ham saqlovchi kiyimxonadagi ashyoni berishga haqli.",
+    },
+    {
+        "name_uz": "ASHYOVIY DALILLAR",
+        "information_uz": "– ishni mazmunan hal qilish uchun ahamiyatli holatlarni aniqlash vositasi bo‘lib xizmat qilishi mumkin bo‘lgan narsalar ashyoviy dalillar hisoblanadi. Ashyoviy dalilni taqdim etuvchi yoki talab qilib olishni iltimos qilayotgan shaxs shu dalil orqali ish uchun ahamiyatli bo‘lgan qanday holatlarni aniqlash mumkinligini ko‘rsatishi shart.",
+    },
+    {
+        "name_uz": "ASHYOVIY DALILLAR",
+        "information_uz": "– kelib chiqishini, kimga tegishliligini, maʼlum maqsadlarda foydalanilganligini yoki foydalanishga yaroqliligini, qo‘ldan-qo‘lga o‘tganligi yoki turgan joyi o‘zgarganligini, u yoki bu moddalar, narsa, jarayon va hodisalar taʼsir etganligini aniqlash mumkin bo‘lgan fizikaviy alomatlar yoki belgilarga, shuningdek, ish holatlarini aniqlashga xizmat qiladigan har qanday boshqa alomatlar va belgilarga ega bo‘lgan narsa ashyoviy dalil hisoblanadi.",
+    },
+    {
+        "name_uz": "ASHYOVIY DALILLARNI SAQLASH VA QAYTARIB BERISH",
+        "information_uz": "– ashyoviy dalillar sudning ajrimiga binoan ishga qo‘shib qo‘yiladi va ishda saqlanadi yoki alohida ro‘yxat qilinib, sudning ashyoviy dalillar saqlanadigan xonasiga topshiriladi. Sudga keltirib bo‘lmaydigan ashyolar turgan joyida saqlanadi. Ular batafsil taʼriflanishi, surg‘uchlangan, zarur hollarda esa, foto yoki video suratga ham olingan bo‘lishi lozim. Ashyoviy dalillar sudning hal qiluv qarori qonuniy kuchga kirganidan keyin kimdan olingan bo‘lsa, o‘sha shaxslarga qaytarib beriladi yoki sud shu ashyolarga kimning huquqi bor deb topgan bo‘lsa, o‘sha shaxslarga beriladi.",
+    },
+    {
+        "name_uz": "ASHYOVIY HUQUQLAR",
+        "information_uz": "– quyidagilar ashyoviy huquqlar hisoblanadi: xo‘jalik yuritish huquqi va operativ boshqarish huquqi; meros qilib qoldiriladigan yer uchastkasiga umrbod egalik qilish huquqi; yer uchastkasiga doimiy egalik qilish va undan foydalanish huquqi; servitutlar.",
+    },
+    {
+        "name_uz": "ASOSIY FAOLIYAT TURI",
+        "information_uz": "– yuridik shaxsning hisobot davri yakunlari bo‘yicha umumiy realizatsiya qilish hajmidagi tushum ulushi ustunlik qiladigan faoliyati.",
+    },
+    {
+        "name_uz": "ASOSIY ISH JOYI",
+        "information_uz": "– ish beruvchi mehnat to‘g‘risidagi qonun hujjatlariga muvofiq xodimning mehnat daftarchasini yuritishi shart bo‘lgan ish joyi.",
+    },
+    {
+        "name_uz": "ASOSIY JAZO",
+        "information_uz": "– faqat mustaqil jazo turlari sifatida tayinlanadigan va davlat majburlovining boshqa choralariga qo‘shib tayinlash mumkin bo‘lmagan jazo turi (jarima, ahloq tuzatish ishlari, qamoq, intizomiy qismga jo‘natish, ozodlikdan mahrum qilish, umrbod ozodlikdan mahrum qilish) dir.",
+    },
+    {
+        "name_uz": "ASOSIY OBYEKT",
+        "information_uz": "– JK moddasini tuzishda Maxsus qism norma bilan maxsus himoyalangan ijtimoiy munosabat turi.",
+    },
+    {
+        "name_uz": "ASOSIY QONUN",
+        "information_uz": "– mazmuni bo‘yicha “Konstitutsiya” tushunchasiga mos keladi. Baʼzi bir davlatlarda, jumladan, Germaniyada Kons. A.q. deb yuritiladi. Qar.: Konstitutsiya.",
+    },
+    {
+        "name_uz": "ASOSSIZ BOYLIK ORTTIRISH OQIBATIDA KELIB CHIQADIGAN MAJBURIYATLAR",
+        "information_uz": "– qonun hujjatlarida yoki bitimda belgilangan asoslarsiz boshqa shaxs (jabrlanuvchi)ning hisobidan mol-mulkni egallab olgan yoki tejab qolgan shaxs (qo‘lga kirituvchi) asossiz egallab olingan yoki tejab qolingan mol-mulkni (asossiz orttirilgan boylikni) jabrlanuvchiga qaytarib berishi shart.",
+    },
+    {
+        "name_uz": "ASOSSIZ ORTTIRILGAN BOYLIKNI ASL HOLICHA QAYTARISH",
+        "information_uz": "– qo‘lga kirituvchining asossiz orttirilgan boyligini tashkil etuvchi mol-mulk jabrlanuvchiga asl holida qaytarilishi lozim.\nQo‘lga kirituvchi jabrlanuvchining oldida har qanday, shu jumladan, u orttirilgan boylikning asossizligini bilgan yoki bilishi lozim bo‘lgan paytdan keyin asossiz qo‘lga kiritilgan yoki tejab qolingan mol-mulkning tasodifiy yetishmovchiligi yoki yomonlashuvi uchun javobgar bo‘ladi.",
+    },
+    {
+        "name_uz": "ASSOTSIATSIYA",
+        "information_uz": "– uyushma, o‘zaro foydali xamkorlik, umumiy xo‘jalik, siyosiy, ilmiy, madaniy yoki boshqa turdagi maqsadga erishish yo‘lida, o‘zining mustaqilligini yo‘qotmagan jismoniy va (yoki) yuridik shaxslarning o‘zaro ixtiyoriy birlashuvi. Odatda, daromad olish maqsadini ko‘zlamaydi. Bir vaqtning o‘zida bir necha assotsiatsiyalarda ishtirok etishga yo‘l qo‘yiladi.",
+    },
+    {
+        "name_uz": "ATMOSFERA",
+        "information_uz": "– Yerning havo qatlami.",
+    },
+    {
+        "name_uz": "ATMOSFERANING IFLOSLANISHI",
+        "information_uz": "– atmosfera gazining uning tarkibida zararli aralashmalar ko‘payishi sababli o‘zgarishi",
+    },
+    {
+        "name_uz": "ATOM",
+        "information_uz": "– kimyoviy elementning xossalarini saqlovchi eng kichik qism.",
+    },
+    {
+        "name_uz": "ATROF",
+        "information_uz": "– bizni o‘rab turgan muhit.",
+    },
+    {
+        "name_uz": "ATROF - MUHIT",
+        "information_uz": "– keng maʼnoda - atrof tabiiy muhit, tabiiy muhit, tabiat, biosfera; tor maʼnoda - tabiiy muhitni inson faoliyati mahsuli elementlari bilan uzviy ravishda bog‘lovchi sifat jihatidan yangi tuzilmaga aylanishdagi tabiiy faoliyat qismi (shaharlar, boshqa urbanlashgan, agrar, sanoat, rekreatsion, kurort va boshqa zonalar);\n- muayyan tanlangan joyda tabiiy sharoitlar va ekologik ahvolni taʼriflovchi umumlashgan tushuncha;\n- “tabiiy atrof-muhit” name_uzini Yer yuzidagi tabiiy sharoitlar, undagi lokal va global ekotizimlar (shu jumladan, jonsiz tabiat)ning holati, hamda ularning inson bilan o‘zaro taʼsiri tavsifiga taalluqlidir.",
+    },
+    {
+        "name_uz": "ATROF - MUHIT",
+        "information_uz": "– tabiiy muhit, tabiiy va tabiiy-antropogen, shuningdek, antropogen obyektlar qismlari majmui.",
+    },
+    {
+        "name_uz": "ATROF MUHITNI MUHOFAZA QILISH",
+        "information_uz": "– inson faoliyatining atrof tabiiy muhitga salbiy inson taʼsirini cheklashga qaratilgan kompleks chora-tadbirlar.",
+    },
+    {
+        "name_uz": "ATROF TABIIY MUHITNI IFLOSLANTIRISH",
+        "information_uz": "– atrof tabiiy muhitga unga salbiy taʼsir ko‘rsatadigan miqdorda, xossada yoki hududda modda va (yoki) energiyaning tushishi.",
+    },
+    {
+        "name_uz": "ATTASHE",
+        "information_uz": "– diplomatik xodimning lavozimi yoki rangi. Xalqaro amaliyotda a.ning quyidagi kategoriyalari mavjud: 1) harbiy, harbiy-dengiz, harbiy-havo a.lari. Ularning har biri o‘z harbiy idorasining mezbon davlat harbiy idorasi huzuridagi vakili hisoblanadilar. Bir vaqtning o‘zida ular diplomatik vakilning harbiy masalalar bo‘yicha maslahatchilaridir; 2) maxsus a.lar. Ular o‘z davlatlarining sanoat, moliya, savdo, madaniyat, texnika kabi sohalari bilan bog‘liq turli idoralarining vakillaridir; 3) matbuot a.si (press-a.) – diplomatik vakolatxonaning matbuot va axborot masalalarini boshqaruvchi masʼul xodimi; 4) diplomatik a. – Tashqi ishlar vazirligi markaziy apparatining yoki diplomatik vakolatxonaning kichik diplomatik xodimi; 5) faxriy a.lar – diplomatik kasbni tanlagan, lekin hozircha doimiy xizmatga joylashgan va ish haqi ham olmaydigan shaxslar. Faxriy a.lar biron diplomatik vakolatxonada malaka oshirish huquqini oladilar. Malaka oshirish tugashi bilan ular diplomatik xizmatning shtatiga o‘tkaziladi. A. kategoriyalarining hammasi diplomatik xodimlar hisoblanadilar, diplomatik korpus tarkibiga kiritiladilar va barcha diplomatik immunitet va imtiyozlardan foydalanadilar.",
+    },
+    {
+        "name_uz": "ATTESTATSIYA",
+        "information_uz": "– 1) Xodimlar malakasini aniqlash usullaridan biri. Qonun hujjatlarida belgilangan muddatlarda va tartiblarda ish beruvchi tomonidan tuzilgan komissiya tomonidan amalga oshiriladi. Davlat xizmatchilarinig ayrim toifalarini a.dan o‘tkazish O‘zbekiston hukumati qarori asosida ham amalga oshiriladi va bu davlat apparatini ixchamlashtirish hamda takomillashtirish tadbirining bir qismi bo‘lib sanaladi. A. xodimlar malakasi, mehnat samaradorligini aniqlashga xizmat qiladi. Navbatdan tashqari o‘tkazilishiga belgilangan tartibda yo‘l qo‘yiladi. A. komissiyasining xodim malakasi va ish faoliyati samaradorligi haqida bergan salbiy xulosasi ish beruvchiga bunday xodimni qonunda belgilangan asosga ko‘ra (MK ning 100-m.) ishdan bo‘shatish huquqini beradi.",
+    },
+    {
+        "name_uz": "ATTORNEY",
+        "information_uz": "(ing. attorney) – ishonchli vakil, istalgan vakil, vakilning ishonchli himoyachisi.",
+    },
+    {
+        "name_uz": "AUDIT",
+        "information_uz": "(lot. auditis – tinglash) – auditorlar (auditorlar firmalari) tomonidan xo‘jalik yuritayotgan subyektlarning moliyaviy hisobotlari to‘g‘riligini, ular amalga oshirgan moliyaviy va xo‘jalik operatsiyalarining mamlakat qonunlariga muvofiqligini tekshirish maqsadlarida o‘tkaziladigan moliya hujjatlari mustaqil ekspertizasi va tahlili.",
+    },
+    {
+        "name_uz": "AUDITOR",
+        "information_uz": "– auditor malaka sertifikatiga ega bo‘lgan jismoniy shaxs.",
+    },
+    {
+        "name_uz": "AUDITOR",
+        "information_uz": "(lot. - auditor – tinglovchi) – belgilangan tartibda malaka sertifikatiga ega bo‘lgan, auditorlik faoliyati bilan shug‘ullanish huquqiga ega bo‘lgan jismoniy shaxslar.",
+    },
+    {
+        "name_uz": "AUDITORLIK FAOLIYATI",
+        "information_uz": "– auditorlik tashkilotlarining auditorlik tekshiruvlarini o‘tkazish va qonun hujjatlarida nazarda tutilgan professional xizmatlar ko‘rsatish borasidagi tadbirkorlik faoliyati.",
+    },
+    {
+        "name_uz": "AUDITORLIK HISOBOTI",
+        "information_uz": "– auditorlik tekshiruvining borishi, buxgalteriya hisobini yuritishning belgilangan tartibidan aniqlangan chetga chiqishlar, moliyaviy hisobotdagi qoidabuzarliklar to‘g‘risidagi mufassal maʼlumotlardan, shuningdek, auditorlik tekshiruvi o‘tkazish natijasida olingan boshqa axborotdan iborat bo‘lgan xo‘jalik yurituvchi subyekt rahbariga, mulkdoriga, qatnashchilari (aksiyadorlari)ning umumiy yig‘ilishiga yo‘llangan hujjat.",
+    },
+    {
+        "name_uz": "AUDITORLIK TASHKILOTI",
+        "information_uz": "– auditorlik faoliyatini amalga oshirish litsenziyasiga ega bo‘lgan yuridik shaxs.",
+    },
+    {
+        "name_uz": "AUDITORLIK TASHKILOTI",
+        "information_uz": "– auditorlik faoliyatini amalga oshirish litsenziyasiga ega bo‘lgan yuridik shaxs.",
+    },
+    {
+        "name_uz": "AUDITORLIK TEKSHIRUVI",
+        "information_uz": "moliyaviy hisobot va boshqa moliyaviy axborot to‘g‘riligi va qonun hujjatlariga mosligini aniqlash maqsadida xo‘jalik yurituvchi subyektning moliyaviy hisobotini hamda u bilan bog‘liq moliyaviy axborotni auditorlik tashkilotlari tomonidan tekshirishdir.",
+    },
+    {
+        "name_uz": "AUDITORLIK TEKSHIRUVINING BUYURTMACHISI",
+        "information_uz": "– auditorlik tekshiruvi o‘tkazilishini qo‘zg‘atuvchi xo‘jalik yurituvchi subyekt, uning mulkdori, shuningdek, ustav kapitalida qonun hujjatlarida belgilanganidan kam bo‘lmagan miqdordagi ulushga ega qatnashchilar va aksiyadorlar, nazorat qiluvchi yoki huquqni muhofaza qiluvchi organlardir.",
+    },
+    {
+        "name_uz": "AUDITORLIK XULOSASI",
+        "information_uz": "– moliyaviy hisobotning to‘g‘riligi va buxgalteriya hisobi yuritish tartibining qonun hujjatlarida belgilangan talablarga muvofiqligi to‘g‘risida auditorlik tashkilotining fikri yozma shaklda ifodalangan, xo‘jalik yurituvchi cybyekt moliyaviy hisobotidan foydalanuvchilar uchun ochiq bo‘lgan hujjat.",
+    },
+    {
+        "name_uz": "AUKSION",
+        "information_uz": "– (lot. auctio – ommaviy savdoda sotish) – kim oshdi savdosining bir turi bo‘lib, unda mulkni oldi-sotdi shartnomasi eng yuqori narx bergan shaxs bilan tuziladi. Auksion ko‘rinishida sotish majburiy yoki ixtiyoriy bo‘lishi mumkin, auksion sotuvchi tomonidan tashkil etilishi mumkin yoki komissioner sifatida chiquvchi maxsus tashkilot tomonidan amalga oshiriladi.",
+    },
+    {
+        "name_uz": "AUTENTIK SHARH",
+        "information_uz": "– huquq normasini uni qabul qilgan subyekt tomonidan tushuntirilishi.",
+    },
+    {
+        "name_uz": "AVANS (bo‘nak)",
+        "information_uz": "1) xodimga kelgusida to‘lanishi lozim bo‘lgan ish haqi hisobidan amalga oshiriladigan pul to‘lovi; Avansning miqdori korxona ish beruvchisi tomonidan xodimlar vakillik organi bilan kelishilgani holda belgilanadi.\n2) xizmat safariga yuborilayotgan xodimga xizmat safari xarajatlarini qoplash uchun oldindan to‘lanadigan pul summasi. Xizmat safaridan qaytgan xodim qilingan xarajatlar hisobotini taqdim qiladi va ortiqcha qilingan xarajatlar to‘lab beriladi, avansning sarflanmay qolgan qismi esa, korxonaga qaytarilishi lozim bo‘ladi.\n3) xo‘jalik ehtiyojlari (masalan, boshqa joydagi ishga yuborilganda oziq-ovqat mahsulotlari, inventarlar sotib olish uchun) berilgan pul summasi sarflanmasdan qolgan qismi korxonaga qaytarib berilishi lozim.",
+    },
+    {
+        "name_uz": "AVARIYA REJIMI",
+        "information_uz": "– elektr energetikasi obyektlari ishlashi texnologik parametrlarining yagona elektr energetikasi tizimining ishonchli ishlab turishi buzilishiga va isteʼmolchilarga elektr energiyasi yetkazib berilishi cheklanishiga olib kelishi mumkin bo‘lgan, yo‘l qo‘yib bo‘lmaydigan buzilish.",
+    },
+    {
+        "name_uz": "AVTOMATDAN FOYDALANGAN HOLDA TOVAR SOTISH",
+        "information_uz": "– tovar avtomatdan foydalanib sotiladigan hollarda avtomat egasi sotuvchining nomi (firma nomi), u joylashgan manzil, ish tartibi, shuningdek sotib oluvchi tovarni olish uchun amalga oshirishi zarur bo‘lgan harakatlar to‘g‘risidagi maʼlumotlarni avtomatga joylashtirish yoki boshqacha usulda sotib oluvchiga taqdim qilish yo‘li bilan unga tovar sotuvchi to‘g‘risidagi axborotni yetkazishi lozim.",
+    },
+    {
+        "name_uz": "AVTOMOBIL TRANSPORTI",
+        "information_uz": "– tarkibiga yuridik va jismoniy shaxslar kiruvchi, iqtisodiyot va aholining yo‘lovchilar, bagaj va yuklarni, shu jumladan, pochtani avtomobilda tashishga bo‘lgan ehtiyojlarini taʼminlovchi ishlab chiqarish-texnologiya majmui.",
+    },
+    {
+        "name_uz": "AVTOMOBIL YO‘LI",
+        "information_uz": "– transport vositalari harakatlanishi uchun mo‘ljallangan, ularning belgilangan tezlikda, og‘irlikda, o‘lchamlarda muttasil va xavfsiz harakatlanishini taʼminlaydigan muhandislik inshootlari majmuasi, shuningdek, ushbu majmuani joylashtirish uchun berilgan yer uchastkalari va majmua ustidagi belgilangan doiradagi bo‘shliq.",
+    },
+    {
+        "name_uz": "AVTOMOBIL YO‘LLARIDAN FOYDALANUVCHILAR",
+        "information_uz": "– yo‘l harakatining ishtirokchilari bo‘lgan yoki ajratilgan mintaqa hamda yo‘l bo‘yi mintaqasi doiralarida belgilangan tartibda ruxsat etilgan faoliyatni amalga oshiruvchi yuridik va jismoniy shaxslar.",
+    },
+    {
+        "name_uz": "AVTONOM TUZILMA",
+        "information_uz": "– avtonom respublikalar, avtonom viloyatlar, avtonom okruglar va b. avtonom birliklarga nisbatan qo‘llaniladigan umumlashtiruvchi tushuncha.",
+    },
+    {
+        "name_uz": "AVTONOMIYA",
+        "information_uz": "(yun. autonomia – o‘z-o‘zini boshqarish, so‘zma-so‘z qonunning o‘zi, autos- o‘zini + nomos-qonun so‘zlaridan) – huqukda keng maʼnoda maʼlum bir davlat yoki boshqa tuzilmalar, yuridik shaxslar, hududiy, milliy va b. uyushmalarning mavjud bo‘lishi va faoliyat ko‘rsatishini tashkil etish va taʼminlash b-n bog‘liq munosabatlarda o‘zini o‘zi boshkarishi, mustaqilligidir. A. subyekti, yaʼni kimga berilganligiga asosan: tashkilotlar A. va xamjamiyat A. ajratiladi.",
+    },
+    {
+        "name_uz": "AVTORITAR REJIM",
+        "information_uz": "(lot. autoritas – hokimiyat, obro‘, nufuz va eʼtibor; taʼsir etish) – davlat rejimining nodemokratik turlaridan biri bo‘lib, bunda hokimiyat yakka shaxsning yoki bir guruh shaxslarning qo‘lida to‘plangan bo‘ladi. A.r.da, odatda, shaxsiy diktatura elementlari mavjud bo‘ladi. A.r.da haqiqiy hokimiyat tor elita doira qo‘lida bo‘lib, shaxsiy manfaatlar davlat manfaatlari yo‘lida qurbon qilinadi.",
+    },
+    {
+        "name_uz": "AVTOTRANSPORT VOSITALARI",
+        "information_uz": "– yo‘lovchilar, bagaj, yuk tashishga hamda maxsus ishlarni bajarishga mo‘ljallangan avtomobillar, shatakchi avtomobillar, tirkama va yarim tirkamalar.",
+    },
+    {
+        "name_uz": "AXBOROT",
+        "information_uz": "– manbalari va taqdim etilish shaklidan qatʼi nazar shaxslar, predmetlar, faktlar, voqealar, hodisalar va jarayonlar to‘g‘risidagi maʼlumotlar.",
+    },
+    {
+        "name_uz": "AXBOROT -HUQUQIY TIZIM",
+        "information_uz": "– EHMda o‘rnatiladigan va maxsus dasturiy kompleks yordamida har xil qidirish funksiyalarini bajarishga qodir bo‘lgan huquqiy axborot avtomatlashtirilgan maʼlumotlar bazasi.",
+    },
+    {
+        "name_uz": "AXBOROT BORASIDAGI XAVFSIZLIK",
+        "information_uz": "– axborot sohasida shaxs, jamiyat va davlat manfaatlarining himoyalanganlik holati.",
+    },
+    {
+        "name_uz": "AXBOROT EGASI",
+        "information_uz": "– qonunda yoki axborot mulkdori tomonidan belgilangan huquqlar doirasida axborotga egalik qiluvchi, undan foydalanuvchi va uni tasarruf etuvchi yuridik yoki jismoniy shaxs.",
+    },
+    {
+        "name_uz": "AXBOROT MULKDORI",
+        "information_uz": "– o‘z mablag‘iga yoki boshqa qonuniy yo‘l bilan olingan axborotga egalik qiluvchi, undan foydalanuvchi va uni tasarruf etuvchi yuridik yoki jismoniy shaxs.",
+    },
+    {
+        "name_uz": "AXBOROT OLISH ERKINLIGI",
+        "information_uz": "– bu fuqarolar o‘zi istagan axborotlarni izlashi, davlat organlari, mansabdor shaxslar, jamoat birlashmalari tomonidan fuqarolarning huquq va erkinliklariga daxldor bo‘lgan hujjat va boshqa materiallar bilan tanishish uchun imkoniyat yaratib berish demakdir.",
+    },
+    {
+        "name_uz": "AXBOROT RESURSI",
+        "information_uz": "– axborot tizimi tarkibidagi elektron shakldagi axborot, maʼlumotlar banki, maʼlumotlar bazasi. A.r.lari alohida hujjatlar, hujjatlarning alohida to‘plamlari, axborot tizimlaridagi (kutubxonalardagi, arxivlardagi, fondlardagi, maʼlumotlar banklaridagi va boshqa axborot tizimlaridagi) hujjatlar va hujjatlarning to‘plamlaridir.",
+    },
+    {
+        "name_uz": "AXBOROT RESURSLARINING YOKI AXBOROT TIZIMLARINING EGASI",
+        "information_uz": "– qonun bilan yoki axborot resurslarining, axborot tizimlarining mulkdori tomonidan belgilangan huquqlar doirasida axborot resurslariga yohud axborot tizimlariga egalik qiluvchi, ulardan foydalanuvchi va ularni tasarruf etuvchi yuridik yoki jismoniy shaxs.",
+    },
+    {
+        "name_uz": "AXBOROT RESURSLARINING YOKI AXBOROT TIZIMLARINING MULKDORI",
+        "information_uz": "– axborot resurslariga yoki axborot tizimlariga egalik qiluvchi, ulardan foydalanuvchi va ularni tasarruf etuvchi yuridik yoki jismoniy shaxs.",
+    },
+    {
+        "name_uz": "AXBOROT SOHASI",
+        "information_uz": "– subyektlarning axborotni yaratish, qayta ishlash va undan foydalanish bilan bog‘liq faoliyati sohasi.",
+    },
+    {
+        "name_uz": "AXBOROT TEXNOLOGIYALARI SOHASIDAGI JINOYATLAR",
+        "information_uz": "– bu axborot xavfsizligiga tahdid soluvchi, bevosita kompyuter vositalari orqali yoki axborot texnologiyalari vositasida sodir etiladigan qonunga xilof ijtimoiy xavfli qilmish .",
+    },
+    {
+        "name_uz": "AXBOROT TEXNOLOGIYASI",
+        "information_uz": "– axborotni to‘plash, saqlash, izlash, unga ishlov berish va uni tarqatish uchun foydalaniladigan jami uslublar, qurilmalar, usullar va jarayonlar.",
+    },
+    {
+        "name_uz": "AXBOROT TIZIMI",
+        "information_uz": "– axborotni to‘plash, saqlash, izlash, unga ishlov berish hamda undan foydalanish imkonini beradigan, tashkiliy jihatdan tartibga solingan jami axborot resurslari, axborot texnologiyalari va aloqa vositalari.",
+    },
+    {
+        "name_uz": "AXBOROTLASHTIRISH",
+        "information_uz": "– yuridik va jismoniy shaxslarning axborotga bo‘lgan ehtiyojlarini qondirish uchun axborot resurslari, axborot texnologiyalari hamda axborot tizimlaridan foydalangan holda sharoit yaratishning tashkiliy ijtimoiy-iqtisodiy va ilmiy-texnikaviy jarayoni.",
+    },
+    {
+        "name_uz": "AXBOROTLASHTIRISH QOIDALARINI BUZISH",
+        "information_uz": "– belgilangan himoya choralarini ko‘rmagan holda axborot tizimlari, maʼlumotlar bazalari va banklarini, axborotga ishlov berish hamda uni uzatish tizimlarini yaratish, joriy etish va ulardan foydalanish hamda axborot tizimlaridan ruxsat bilan foydalanish fuqarolarning huquqlariga yoki qonun bilan qo‘riqlanadigan manfaatlariga yoxud davlat yoki jamoat manfaatlariga ko‘p miqdorda zarar yoxud jiddiy ziyon yetkazilishiga sabab bo‘lgan ijtimoiy xavfli qilmish (JK 2781-m.).",
+    },
+    {
+        "name_uz": "AXBOROTNI MUHOFAZA ETISH",
+        "information_uz": "– axborot borasidagi xavfsizlikka tahdidlarning oldini olish va ularning oqibatlarini bartaraf etish chora-tadbirlari.",
+    },
+    {
+        "name_uz": "AXBOROTNI OSHKOR QILISH",
+        "information_uz": "– qimmatli qog‘ozlar bozorida manfaatdor shaxslarning axborotni olish maqsadidan qatʼi nazar, axborotdan uning topilishi va olinishini kafolatlaydigan shakllarda foydalanishini taʼminlash.",
+    },
+    {
+        "name_uz": "AXLOQ TUZATISH ISHLARI",
+        "information_uz": "– mehnatga layoqatli sudlangan shaxs ish haqining muayyan foizi miqdorini davlat daromadi hisobiga ushlab qolgan holda uni mehnatga majburan jalb qilishdan iborat bo‘lib, jazo sudning hukmiga muvofiq mahkumning o‘z ish joyi yoki mazkur jazo ijrosini nazorat qiluvchi organlar belgilab beradigan boshqa joylarda o‘taladi.",
+    },
+    {
+        "name_uz": "AYB",
+        "information_uz": "– shaxsning o‘zi tomonidan sodir etilgan, JKda nazarda tutilgan ijtimoiy xavfli qilmishi (harakat yoki harakatsizlik)ga va uning ijtimoiy xavfli oqibatlariga nisbatan bo‘lgan ruhiy munosabatining qasd yoki ehtiyotsizlik shaklidagi ko‘rinishi.",
+    },
+    {
+        "name_uz": "AYB EʼLON QILISH",
+        "information_uz": "– tergovchi, prokurorning shaxsga uning nimada ayblanayotganligini maʼlum qilishdan iborat protsessual harakatidir.",
+    },
+    {
+        "name_uz": "AYB UCHUN JAVOBGARLIK",
+        "information_uz": "– shaxs qonunda belgilangan tartibda aybi isbotlangan ijtimoiy xavfli qilmishlari uchungina javobgar bo‘lishi.",
+    }
+],
