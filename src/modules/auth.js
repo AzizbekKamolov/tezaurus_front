@@ -23,12 +23,14 @@ const mutations = {
 
 const actions = {
     register(context, user) {
-        return new Promise(() => {
+        return new Promise((resolve, reject) => {
             context.commit('registerStart')
             AuthService.register(user).then(response => {
                 context.commit('registerSuccess', response.data)
+                resolve(response.data)
             }).catch(error => {
-                context.commit('registerFailure', error.data.errors)
+                context.commit('registerFailure', error.response.data)
+                reject(error.response.data)
             })
         })
     }
