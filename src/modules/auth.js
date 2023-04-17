@@ -1,18 +1,36 @@
+import AuthService from "../service/auth"
 const state = {
     isLoading: false,
+    user:null,
+    errors:null
 }
 
 const mutations = {
-    setLoading(state){
+    registerStart(state) {
         state.isLoading = true
-    }
+        state.user = null
+        state.errors = null
+    },
+    registerSuccess(state, payload) {
+        state.isLoading = false
+        state.user = payload
+    },
+    registerFailure(state, payload) {
+        state.isLoading = false
+        state.errors = payload
+    },
 }
 
 const actions = {
-    register(context){
-        setTimeout(() => {
-            context.commit('setLoading')    
-        }, 2000);
+    register(context, user) {
+        return new Promise(() => {
+            context.commit('registerStart')
+            AuthService.register(user).then(response => {
+                context.commit('registerSuccess', response.data)
+            }).catch(error => {
+                context.commit('registerFailure', error.data.errors)
+            })
+        })
     }
 }
 
