@@ -1,3 +1,4 @@
+import { setItem } from "../helpers/parsistenceStorage"
 import AuthService from "../service/auth"
 const state = {
     isLoading: false,
@@ -17,7 +18,7 @@ const mutations = {
     },
     registerFailure(state, payload) {
         state.isLoading = false
-        state.errors = payload
+        state.errors = payload.data.errors
     },
 }
 
@@ -27,6 +28,7 @@ const actions = {
             context.commit('registerStart')
             AuthService.register(user).then(response => {
                 context.commit('registerSuccess', response.data)
+                setItem('token', response.data.data.token)
                 resolve(response.data)
             }).catch(error => {
                 context.commit('registerFailure', error.response.data)

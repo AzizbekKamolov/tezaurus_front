@@ -1,9 +1,10 @@
 <template>
   <div class="flex items-center justify-center min-h-screen">
     <form
-      class="w-full max-w-sm mx-auto bg-white p-8 rounded-md drop-shadow-2xl"
+    class="w-full max-w-sm mx-auto bg-white p-8 rounded-md drop-shadow-2xl"
     >
-      <h1 class="text-2xl font-bold mb-6 text-center">Registration Form</h1>
+    <h1 class="text-2xl font-bold mb-6 text-center">Registration Form</h1>
+    <ValidationError :validationErrors="validationErrors" v-if="validationErrors"/>
       <AuthInput
         :type="'text'"
         :name="'first_name'"
@@ -42,9 +43,9 @@
   </div>
 </template>
 <script>
+import ValidationError from '../components/ValidationError.vue';
 import AuthButton from "../ui_components/AuthButton.vue";
 import AuthInput from "../ui_components/AuthInput.vue";
-
 export default {
   data() {
     return {
@@ -55,7 +56,7 @@ export default {
     };
   },
   name: "RegisterView",
-  components: { AuthButton, AuthInput },
+  components: { AuthButton, AuthInput, ValidationError },
   methods: {
     submitHandler(e) {
       e.preventDefault();
@@ -69,10 +70,10 @@ export default {
         .dispatch("register", data)
         .then((user) => {
           this.$router.push({name : 'home'})
-          console.log(user)
+          // console.log(user)
         })
         .catch((error) => {
-          console.log("error", error.data.errors);
+          // console.log("error", error.data.errors);
         });
     },
   },
@@ -80,6 +81,9 @@ export default {
     isLoadingButton() {
       return this.$store.state.auth.isLoading;
     },
+    validationErrors(){
+      return this.$store.state.auth.errors
+    }
   },
 };
 </script>
