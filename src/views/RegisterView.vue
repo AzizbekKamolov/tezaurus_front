@@ -51,7 +51,7 @@ export default {
       first_name: "",
       login: "",
       password: "",
-      consirmation_password: "",
+      confirmation_password: "",
     };
   },
   name: "RegisterView",
@@ -60,15 +60,16 @@ export default {
     submitHandler(e) {
       e.preventDefault();
       const data = {
-        first_name: "admin1",
-        login: "admisssndd1ss",
-        password: "admin",
-        confirmation_password: "admin",
+        first_name: this.first_name,
+        login: this.login,
+        password: this.password,
+        confirmation_password: this.confirmation_password
       };
       this.$store
         .dispatch("register", data)
         .then((user) => {
-          // console.log(user)
+          this.$router.push({name : 'home'})
+          console.log(user)
         })
         .catch((error) => {
           console.log("error", error.data.errors);
