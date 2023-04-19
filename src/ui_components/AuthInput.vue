@@ -11,7 +11,6 @@
       v-on:input="updateInput"
       :value="modelValue"
     />
-    <span class="text-red-500">{{ errorrMessage }}</span>
   </div>
 </template>
 <script>
@@ -20,7 +19,6 @@ export default {
     name: String,
     type: String,
     labelName: String,
-    errorrMessage: String,
     modelValue: [String, Number],
   },
   methods: {

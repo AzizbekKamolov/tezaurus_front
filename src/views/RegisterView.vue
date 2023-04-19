@@ -9,21 +9,18 @@
         :type="'text'"
         :name="'first_name'"
         :labelName="'First name'"
-        :errorrMessage="``"
         v-model="first_name"
       />
       <AuthInput
         :type="'text'"
         :name="'login'"
         :labelName="'Login'"
-        :errorrMessage="``"
         v-model="login"
       />
       <AuthInput
         :type="'password'"
         :name="'password'"
         :labelName="'Password'"
-        :errorrMessage="``"
         v-model="password"
       />
       <AuthInput
@@ -31,7 +28,6 @@
         :name="'confirmation_password'"
         :labelName="'Confirm Password'"
         v-model="confirmation_password"
-        :errorrMessage="``"
       />
       <AuthButton :disabled="isLoadingButton" @click="submitHandler"
         >Register</AuthButton
@@ -73,7 +69,7 @@ export default {
           // console.log(user)
         })
         .catch((error) => {
-          // console.log("error", error.data.errors);
+          console.log("error", error.data.errors);
         });
     },
   },
